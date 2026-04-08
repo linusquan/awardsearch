@@ -74,28 +74,32 @@ export async function* researchAward(
         model: "claude-sonnet-4-6",
         permissionMode: "bypassPermissions",
         allowDangerouslySkipPermissions: true,
-        maxTurns: 25,
+        maxTurns: 50,
         cwd: PROJECT_ROOT,
+        agentProgressSummaries: true,
       },
     })) {
       if ("result" in message) {
         resultText = message.result;
         yield makeLog(awardIndex, awardName, `Research complete`);
-      } else if (
-        message.type === "system" &&
-        message.subtype === "task_progress" &&
-        "usage" in message
-      ) {
-        // Capture cumulative usage from task_progress events
-        const u = message.usage as Record<string, number> | undefined;
-        if (u) {
+      } else if (message.type === "system") {
+        // Capture usage from any system message that carries it
+        const msg = message as Record<string, unknown>;
+        if (msg.usage && typeof msg.usage === "object") {
+          const u = msg.usage as Record<string, number>;
           lastUsage = {
-            input_tokens: u.input_tokens,
-            output_tokens: u.output_tokens,
-            cache_read_tokens: u.cache_read_input_tokens,
-            cache_write_tokens: u.cache_creation_input_tokens,
+            input_tokens: u.input_tokens || lastUsage.input_tokens,
+            output_tokens: u.output_tokens || lastUsage.output_tokens,
+            cache_read_tokens: u.cache_read_input_tokens || lastUsage.cache_read_tokens,
+            cache_write_tokens: u.cache_creation_input_tokens || lastUsage.cache_write_tokens,
           };
         }
+        yield makeLog(
+          awardIndex,
+          awardName,
+          `[system] ${message.subtype}${msg.usage ? ` | tokens: ${JSON.stringify(msg.usage)}` : ""}`
+        );
+        continue;
       } else if (message.type === "assistant") {
         for (const block of message.message.content) {
           if (block.type === "text" && block.text) {
@@ -131,12 +135,6 @@ export async function* researchAward(
             );
           }
         }
-      } else if (message.type === "system") {
-        yield makeLog(
-          awardIndex,
-          awardName,
-          `[system] ${message.subtype}`
-        );
       }
     }
 
