@@ -1,0 +1,404 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=e2] [cursor=pointer]
+      - link "Accessibility help" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-AU
+      - link "Accessibility feedback" [ref=e4] [cursor=pointer]
+  - generic [ref=e9]:
+    - search [ref=e10]:
+      - generic [ref=e12]:
+        - link "Go to Google Home" [ref=e14] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwiLpv-1m96TAxURiO4BHTI8N70QPAgJ
+          - img [ref=e15]
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - combobox "Search" [ref=e26]: PRIA Awards 2026 entry deadline cost PRIA Awards 2026 entry deadline cost
+            - generic [ref=e27]:
+              - button "Clear" [ref=e29] [cursor=pointer]:
+                - img [ref=e31]
+              - generic [ref=e34]:
+                - button "Search by voice" [ref=e35] [cursor=pointer]:
+                  - img [ref=e36]
+                - button "Search by image" [ref=e38] [cursor=pointer]:
+                  - img [ref=e39]
+          - button "Search" [ref=e41] [cursor=pointer]:
+            - img [ref=e44]
+    - generic [ref=e46]:
+      - button "Settings" [ref=e48] [cursor=pointer]:
+        - img [ref=e51]
+      - button "Share" [ref=e54] [cursor=pointer]:
+        - img [ref=e58]
+      - generic [ref=e60]:
+        - button "Google apps" [ref=e62] [cursor=pointer]:
+          - img [ref=e63]
+        - link "Sign in" [ref=e67] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DPRIA%2BAwards%2B2026%2Bentry%2Bdeadline%2Bcost%26sei%3Df0TWaaqzO-fHkPIPptrRWA&ec=futura_srp_og_si_72236_p
+  - generic [ref=e69]:
+    - navigation [ref=e75]:
+      - generic [ref=e79]:
+        - list [ref=e80]:
+          - listitem [ref=e81]:
+            - link "AI Mode" [ref=e84] [cursor=pointer]:
+              - /url: /search?q=PRIA+Awards+2026+entry+deadline+cost&sca_esv=26efe42c3f425b34&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mBcFY_b7_fFBjPEsWR5sze4Ib_Vy4O5-_cdDoJI0Oxtkd6Pm7xp2OaKfrkzv2wOAicNl_MV4S54jUJFJ2-yTequMQ7FKI6pQtL1g4KVWEUcxfEsn5ysoLD3VZsfDcwl-7o-eibh8-eAkWAZz6_SrFNiLAMyFbP-fCMoPF8171dTriOe6gg&aep=1&ntc=1&sa=X&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q2J8OegQIERAE
+              - generic [ref=e87]: AI Mode
+          - listitem [ref=e88]:
+            - link "All" [disabled] [ref=e89]:
+              - generic [ref=e91]: All
+          - listitem [ref=e92]:
+            - link "Shopping" [ref=e93] [cursor=pointer]:
+              - /url: /search?sca_esv=26efe42c3f425b34&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mBcFY_b7_fFBjPEsWR5sze4Ib_Vy4O5-_cdDoJI0Oxtkd6Pm7xp2OaKfrkzv2wOAicNl_MV4S54jUJFJ2-yTequMQ7FKI6pQtL1g4KVWEUcxfEsn5ysoLD3VZsfDcwl-7o-eibh8-eAkWAZz6_SrFNiLAMyFbP-fCMoPF8171dTriOe6gg&q=PRIA+Awards+2026+entry+deadline+cost&ved=1t:220175&ictx=111
+              - generic [ref=e95]: Shopping
+          - listitem [ref=e96]:
+            - link "News" [ref=e97] [cursor=pointer]:
+              - /url: /search?sca_esv=26efe42c3f425b34&q=PRIA+Awards+2026+entry+deadline+cost&tbm=nws&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mBcFY_b7_fFBjPEsWR5sze4Ib_Vy4O5-_cdDoJI0Oxtkd6Pm7xp2OaKfrkzv2wOAicNl_MV4S54jUJFJ2-yTequMQ7FKI6pQtL1g4KVWEUcxfEsn5ysoLD3VZsfDcwl-7o-eibh8-eAkWAZz6_SrFNiLAMyFbP-fCMoPF8171dTriOe6gg&sa=X&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q0pQJegQIFhAB
+              - generic [ref=e99]: News
+          - listitem [ref=e100]:
+            - link "Images" [ref=e101] [cursor=pointer]:
+              - /url: /search?sca_esv=26efe42c3f425b34&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mBcFY_b7_fFBjPEsWR5sze4Ib_Vy4O5-_cdDoJI0Oxtkd6Pm7xp2OaKfrkzv2wOAicNl_MV4S54jUJFJ2-yTequMQ7FKI6pQtL1g4KVWEUcxfEsn5ysoLD3VZsfDcwl-7o-eibh8-eAkWAZz6_SrFNiLAMyFbP-fCMoPF8171dTriOe6gg&q=PRIA+Awards+2026+entry+deadline+cost&sa=X&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70QtKgLegQIExAB
+              - generic [ref=e103]: Images
+          - listitem [ref=e104]:
+            - link "Videos" [ref=e105] [cursor=pointer]:
+              - /url: /search?sca_esv=26efe42c3f425b34&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mBcFY_b7_fFBjPEsWR5sze4Ib_Vy4O5-_cdDoJI0Oxtkd6Pm7xp2OaKfrkzv2wOAicNl_MV4S54jUJFJ2-yTequMQ7FKI6pQtL1g4KVWEUcxfEsn5ysoLD3VZsfDcwl-7o-eibh8-eAkWAZz6_SrFNiLAMyFbP-fCMoPF8171dTriOe6gg&q=PRIA+Awards+2026+entry+deadline+cost&sa=X&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70QtKgLegQIFRAB
+              - generic [ref=e107]: Videos
+          - listitem [ref=e108]:
+            - link "Forums" [ref=e109] [cursor=pointer]:
+              - /url: /search?sca_esv=26efe42c3f425b34&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mBcFY_b7_fFBjPEsWR5sze4Ib_Vy4O5-_cdDoJI0Oxtkd6Pm7xp2OaKfrkzv2wOAicNl_MV4S54jUJFJ2-yTequMQ7FKI6pQtL1g4KVWEUcxfEsn5ysoLD3VZsfDcwl-7o-eibh8-eAkWAZz6_SrFNiLAMyFbP-fCMoPF8171dTriOe6gg&q=PRIA+Awards+2026+entry+deadline+cost&sa=X&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Qs6gLegQIFBAB
+              - generic [ref=e111]: Forums
+          - listitem [ref=e112]:
+            - button "More filters" [ref=e113] [cursor=pointer]:
+              - generic "More filters" [ref=e114]:
+                - generic [ref=e115]:
+                  - generic [ref=e116]: More
+                  - img [ref=e118]
+        - button "Tools" [ref=e121] [cursor=pointer]:
+          - generic [ref=e123]:
+            - generic [ref=e124]: Tools
+            - img [ref=e126]
+    - heading "Search Results" [level=1] [ref=e128]
+    - generic [ref=e133]:
+      - generic [ref=e152]:
+        - heading "Thinking Searching Thinking a little longer" [level=2] [ref=e156]:
+          - generic [ref=e157]:
+            - generic [ref=e159]: Thinking
+            - generic [ref=e161]: Searching
+            - generic [ref=e171]: Thinking a little longer
+        - progressbar [ref=e173]
+      - main [ref=e215]:
+        - generic [ref=e219]:
+          - generic [ref=e222]:
+            - heading "Web results" [level=2] [ref=e223]
+            - generic [ref=e224]:
+              - generic [ref=e227]:
+                - link "2025 Golden Target Awards Communication and Public Relations Australia (CPRA) https://www.cpra.org.au › golden-target-awards" [ref=e229] [cursor=pointer]:
+                  - /url: https://www.cpra.org.au/golden-target-awards/
+                  - heading "2025 Golden Target Awards" [level=3] [ref=e230]
+                  - generic [ref=e235]:
+                    - generic [ref=e237]: Communication and Public Relations Australia (CPRA)
+                    - generic [ref=e239]: https://www.cpra.org.au › golden-target-awards
+                - button "About this result" [ref=e240] [cursor=pointer]:
+                  - img [ref=e243]
+              - generic [ref=e246]:
+                - generic [ref=e247]:
+                  - text: Standard Entries, Close on Friday 15 August at 11:00pm AEST $
+                  - emphasis [ref=e248]: 450 for CPRA Members, $850 for Non-Members
+                  - text: "* ; Late Entries, Close on Friday 29 August at 11:00pm ..."
+                - link "Read more" [ref=e249] [cursor=pointer]:
+                  - /url: https://www.cpra.org.au/golden-target-awards/#:~:text=Standard%20Entries,CPRA%20Members%2C%20%24850%20for%20Non%2DMembers*&text=Late%20Entries,29%20August%20at%2011%3A00pm%20AEST
+          - generic [ref=e253]:
+            - generic [ref=e256]:
+              - link "PRIA Golden Target AdNews https://www.adnews.com.au › awards › pria-golden-target" [ref=e258] [cursor=pointer]:
+                - /url: https://www.adnews.com.au/awards/pria-golden-target
+                - heading "PRIA Golden Target" [level=3] [ref=e259]
+                - generic [ref=e264]:
+                  - generic [ref=e266]: AdNews
+                  - generic [ref=e268]: https://www.adnews.com.au › awards › pria-golden-target
+              - button "About this result" [ref=e269] [cursor=pointer]:
+                - img [ref=e272]
+            - generic [ref=e275]:
+              - generic [ref=e276]:
+                - text: The Golden Target
+                - emphasis [ref=e277]: Award application
+                - text: is completed in two stages to make
+                - emphasis [ref=e278]: entry
+                - text: "easier: 1) A preliminary"
+                - emphasis [ref=e279]: entry
+                - text: of 1,000 words, which is initially submitted to ...
+              - link "Read more" [ref=e280] [cursor=pointer]:
+                - /url: https://www.adnews.com.au/awards/pria-golden-target#:~:text=The%20Golden%20Target%20Award%20application,for%20the%20Final%20judging%2C%20and
+            - generic [ref=e282]:
+              - text: "Missing: cost ‎| Show results with:"
+              - link "cost" [ref=e283] [cursor=pointer]:
+                - /url: /search?sca_esv=26efe42c3f425b34&q=PRIA+Awards+2026+entry+deadline+%22cost%22&sa=X&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q5t4CegQIHxAB
+          - generic [ref=e287]:
+            - generic [ref=e288]:
+              - heading "People also ask" [level=2] [ref=e289]
+              - button "About this result" [ref=e290] [cursor=pointer]:
+                - img [ref=e293]
+            - button "What are PR awards?" [ref=e301] [cursor=pointer]:
+              - generic [ref=e303]: What are PR awards?
+              - img [ref=e306]
+          - generic [ref=e311]:
+            - heading "Web results" [level=2] [ref=e312]
+            - generic [ref=e313]:
+              - generic [ref=e316]:
+                - link "PRIA Golden Target Awards awardwriters.com.au https://awardwriters.com.au › marketing-comms › pria-..." [ref=e318] [cursor=pointer]:
+                  - /url: https://awardwriters.com.au/marketing-comms/pria-golden-target-awards/
+                  - heading "PRIA Golden Target Awards" [level=3] [ref=e319]
+                  - generic [ref=e324]:
+                    - generic [ref=e326]: awardwriters.com.au
+                    - generic [ref=e328]: https://awardwriters.com.au › marketing-comms › pria-...
+                - button "About this result" [ref=e329] [cursor=pointer]:
+                  - img [ref=e332]
+              - generic [ref=e335]:
+                - generic [ref=e336]:
+                  - emphasis [ref=e337]: Registration
+                  - text: "Website: https://www."
+                  - emphasis [ref=e338]: pria
+                  - text: .com.au/events/golden-target-
+                  - emphasis [ref=e339]: awards
+                  - text: "/2023/. Nominations Open: 21-Jun. Nominations"
+                  - emphasis [ref=e340]: Close
+                  - text: ": 18-Aug. Contact Us."
+                - link "Read more" [ref=e341] [cursor=pointer]:
+                  - /url: https://awardwriters.com.au/marketing-comms/pria-golden-target-awards/#:~:text=Registration%20Website%3A%20https%3A%2F%2Fwww.pria.com.au%2Fevents%2Fgolden%2Dtarget%2Dawards%2F2023%2F,Contact%20Us
+              - generic [ref=e343]:
+                - text: "Missing: deadline ‎| Show results with:"
+                - link "deadline" [ref=e344] [cursor=pointer]:
+                  - /url: /search?sca_esv=26efe42c3f425b34&q=PRIA+Awards+2026+entry+%22deadline%22+cost&sa=X&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q5t4CegQIWhAB
+          - generic [ref=e348]:
+            - generic [ref=e351]:
+              - link "PR Awards Asia-Pacific 2026 open for entries Campaign Asia https://www.campaignasia.com › article › pr-awards-asia-..." [ref=e353] [cursor=pointer]:
+                - /url: https://www.campaignasia.com/article/pr-awards-asia-pacific-2026-open-for-entries/410jvs6ydee3n3prfsw8er434y
+                - heading "PR Awards Asia-Pacific 2026 open for entries" [level=3] [ref=e354]
+                - generic [ref=e359]:
+                  - generic [ref=e361]: Campaign Asia
+                  - generic [ref=e363]: https://www.campaignasia.com › article › pr-awards-asia-...
+              - button "About this result" [ref=e364] [cursor=pointer]:
+                - img [ref=e367]
+            - generic [ref=e370]:
+              - generic [ref=e371]: 4 Feb 2026 —
+              - generic [ref=e372]:
+                - text: "Early bird entry: Thursday, March 5, 2026 – HK$3,850 · Standard entry: Monday, March 23, 2026 – HK$4,400 · Final entry:"
+                - emphasis [ref=e373]: Tuesday, April 14, 2026
+                - text: – ...
+              - link "Read more" [ref=e374] [cursor=pointer]:
+                - /url: https://www.campaignasia.com/article/pr-awards-asia-pacific-2026-open-for-entries/410jvs6ydee3n3prfsw8er434y#:~:text=Early%20bird%20entry%3A%20Thursday%2C%20March,5%2C%202026%20%E2%80%93%20HK%243%2C850&text=Standard%20entry%3A%20Monday%2C%20March%2023%2C,2026%20%E2%80%93%20HK%244%2C400&text=Final%20entry%3A%20Tuesday%2C%20April%2014%2C,2026%20%E2%80%93%20HK%244%2C850
+            - generic [ref=e376]:
+              - text: "Missing: PRIA ‎| Show results with:"
+              - link "PRIA" [ref=e377] [cursor=pointer]:
+                - /url: /search?sca_esv=26efe42c3f425b34&q=%22PRIA%22+Awards+2026+entry+deadline+cost&sa=X&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q5t4CegQITxAB
+          - generic [ref=e381]:
+            - generic [ref=e384]:
+              - link "⏰ DEADLINE ALERT! Pendaftaran ENTRY NON ... Instagram · event.pri 20+ likes · 3 months ago" [ref=e386] [cursor=pointer]:
+                - /url: https://www.instagram.com/p/DSW668SE5ZT/
+                - heading "⏰ DEADLINE ALERT! Pendaftaran ENTRY NON ..." [level=3] [ref=e387]
+                - generic [ref=e392]:
+                  - generic [ref=e394]: Instagram · event.pri
+                  - generic [ref=e396]: 20+ likes · 3 months ago
+              - button "About this result" [ref=e397] [cursor=pointer]:
+                - img [ref=e400]
+            - generic [ref=e403]:
+              - generic [ref=e404]:
+                - text: "🗓️ Open Registration:"
+                - emphasis [ref=e405]: March 17th, 2026 - April 22nd, 2026
+                - text: "Registration Fee: OlymPRDay - $10.32 (Rp 160.000) PRodcast - $7.74 (Rp 120.000) For ..."
+              - link "Read more" [ref=e406] [cursor=pointer]:
+                - /url: https://www.instagram.com/p/DSW668SE5ZT/#:~:text=more
+          - generic [ref=e410]:
+            - generic [ref=e413]:
+              - link "PRIA Calendar Communication and Public Relations Australia (CPRA) https://www.cpra.org.au › events › pria-calendar" [ref=e415] [cursor=pointer]:
+                - /url: https://www.cpra.org.au/events/pria-calendar/
+                - heading "PRIA Calendar" [level=3] [ref=e416]
+                - generic [ref=e421]:
+                  - generic [ref=e423]: Communication and Public Relations Australia (CPRA)
+                  - generic [ref=e425]: https://www.cpra.org.au › events › pria-calendar
+              - button "About this result" [ref=e426] [cursor=pointer]:
+                - img [ref=e429]
+            - generic [ref=e432]:
+              - generic [ref=e433]:
+                - text: 08 April
+                - emphasis [ref=e434]: "2026"
+                - text: "; End Date: 08 April"
+                - emphasis [ref=e435]: "2026"
+                - text: "; Start Time: 12:00pm AEDT; End Time: 1:30pm AEDT; Venue: Online via Zoom."
+                - emphasis [ref=e436]: Registration
+                - text: ": Register for this event · Find ..."
+              - link "Read more" [ref=e437] [cursor=pointer]:
+                - /url: https://www.cpra.org.au/events/pria-calendar/#:~:text=08%20April%202026,Find%20out%20More
+            - generic [ref=e439]: "Missing: deadline ‎cost"
+          - generic [ref=e443]:
+            - generic [ref=e446]:
+              - link "PR Awards Asia PR Awards Asia https://prawardsasia.com" [ref=e448] [cursor=pointer]:
+                - /url: https://prawardsasia.com/
+                - heading "PR Awards Asia" [level=3] [ref=e449]
+                - generic [ref=e454]:
+                  - generic [ref=e456]: PR Awards Asia
+                  - generic [ref=e458]: https://prawardsasia.com
+              - button "About this result" [ref=e459] [cursor=pointer]:
+                - img [ref=e462]
+            - generic [ref=e465]:
+              - generic [ref=e466]:
+                - text: A separate fee is required for each entry submission. Entry fees are due at ...
+                - emphasis [ref=e467]: "Final Entry Deadline: Tuesday, 14 April 2026"
+                - text: . Shortlists Announcement ...
+              - link "Read more" [ref=e468] [cursor=pointer]:
+                - /url: https://prawardsasia.com/#:~:text=A%20separate%20fee%20is%20required,time%20of%20submission%20and%20non%2Drefundable.&text=Final%20Entry%20Deadline%3A,Shortlists%20Announcement%3A
+            - generic [ref=e470]:
+              - text: "Missing: PRIA ‎| Show results with:"
+              - link "PRIA" [ref=e471] [cursor=pointer]:
+                - /url: /search?sca_esv=26efe42c3f425b34&q=%22PRIA%22+Awards+2026+entry+deadline+cost&sa=X&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q5t4CegQIWBAB
+          - generic [ref=e475]:
+            - generic [ref=e478]:
+              - link "PR Indonesia Awards IPB University as Exemplary Public ... IPB University https://www.ipb.ac.id › news › index › 2026/02 › pr-in..." [ref=e480] [cursor=pointer]:
+                - /url: https://www.ipb.ac.id/news/index/2026/02/pr-indonesia-awards-ipb-university-as-exemplary-public-relations-institution-at-pria-2026/
+                - heading "PR Indonesia Awards IPB University as Exemplary Public ..." [level=3] [ref=e481]
+                - generic [ref=e486]:
+                  - generic [ref=e488]: IPB University
+                  - generic [ref=e490]: https://www.ipb.ac.id › news › index › 2026/02 › pr-in...
+              - button "About this result" [ref=e491] [cursor=pointer]:
+                - img [ref=e494]
+            - generic [ref=e497]:
+              - generic [ref=e498]: 18 Feb 2026 —
+              - generic [ref=e499]:
+                - text: IPB University was named the recipient of the Special Achievement
+                - emphasis [ref=e500]: Award
+                - text: as Exemplary Public Relations Institution at the
+                - emphasis [ref=e501]: "2026"
+                - text: .
+          - generic [ref=e505]:
+            - generic [ref=e508]:
+              - link "CEF Extra Country Education Foundation of Australia (CEF) https://cef.org.au › cef-extra" [ref=e510] [cursor=pointer]:
+                - /url: https://cef.org.au/cef-extra/
+                - heading "CEF Extra" [level=3] [ref=e511]
+                - generic [ref=e516]:
+                  - generic [ref=e518]: Country Education Foundation of Australia (CEF)
+                  - generic [ref=e520]: https://cef.org.au › cef-extra
+              - button "About this result" [ref=e521] [cursor=pointer]:
+                - img [ref=e524]
+            - generic [ref=e527]:
+              - generic [ref=e528]:
+                - text: The successful student will still need to fund the remaining accommodation
+                - emphasis [ref=e529]: costs
+                - text: ". Value: Two scholarships valued at 50% of the"
+                - emphasis [ref=e530]: "2026"
+                - text: annual accommodation
+                - emphasis [ref=e531]: fees
+                - text: .
+              - link "Read more" [ref=e532] [cursor=pointer]:
+                - /url: https://cef.org.au/cef-extra/#:~:text=St%20Andrew's%20College%2DCEF%20Scholarships%20(Sydney)
+          - generic [ref=e536]:
+            - generic [ref=e539]:
+              - link "Judges - Australian Event Awards eventawards.com.au https://eventawards.com.au › judges" [ref=e541] [cursor=pointer]:
+                - /url: https://eventawards.com.au/judges/
+                - heading "Judges - Australian Event Awards" [level=3] [ref=e542]
+                - generic [ref=e547]:
+                  - generic [ref=e549]: eventawards.com.au
+                  - generic [ref=e551]: https://eventawards.com.au › judges
+              - button "About this result" [ref=e552] [cursor=pointer]:
+                - img [ref=e555]
+            - generic [ref=e558]:
+              - generic [ref=e559]:
+                - text: Enter or Register Early for Coffs
+                - emphasis [ref=e560]: "2026"
+                - text: "- Early Starters & Symposium Saver end 1 June! ... ("
+                - emphasis [ref=e561]: PRIA
+                - text: )
+                - emphasis [ref=e562]: Award
+                - text: for the 2012 festival media as well as a coveted ...
+              - link "Read more" [ref=e563] [cursor=pointer]:
+                - /url: https://eventawards.com.au/judges/#:~:text=Enter%20or%20Register%20Early%20for,Symposium%20Saver%20end%201%20June!&text=PRIA)%20Award%20for%20the%202012,as%20well%20as%20a%20coveted
+        - generic [ref=e565]:
+          - generic [ref=e570]:
+            - heading "People also search for" [level=2] [ref=e572]
+            - generic [ref=e574]:
+              - generic [ref=e575]:
+                - link "Pria awards 2026 entry deadline cost australia" [ref=e579] [cursor=pointer]:
+                  - /url: /search?sca_esv=26efe42c3f425b34&q=Pria+awards+2026+entry+deadline+cost+australia&sa=X&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q1QJ6BAg3EAE
+                  - generic [ref=e580]:
+                    - generic [ref=e585]: Pria awards 2026 entry deadline cost australia
+                    - img [ref=e589]
+                - link "PR Awards Australia" [ref=e594] [cursor=pointer]:
+                  - /url: /search?sca_esv=26efe42c3f425b34&q=PR+Awards+Australia&sa=X&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q1QJ6BAhQEAE
+                  - generic [ref=e595]:
+                    - generic [ref=e600]: PR Awards Australia
+                    - img [ref=e604]
+                - link "Golden Target Awards 2025" [ref=e609] [cursor=pointer]:
+                  - /url: /search?sca_esv=26efe42c3f425b34&q=Golden+Target+Awards+2025&sa=X&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q1QJ6BAhMEAE
+                  - generic [ref=e610]:
+                    - generic [ref=e615]: Golden Target Awards 2025
+                    - img [ref=e619]
+                - link "Pria golden target awards criteria" [ref=e624] [cursor=pointer]:
+                  - /url: /search?sca_esv=26efe42c3f425b34&q=Pria+golden+target+awards+criteria&sa=X&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q1QJ6BAhHEAE
+                  - generic [ref=e625]:
+                    - generic [ref=e630]: Pria golden target awards criteria
+                    - img [ref=e634]
+              - generic [ref=e636]:
+                - link "CPRA Golden Target Awards" [ref=e640] [cursor=pointer]:
+                  - /url: /search?sca_esv=26efe42c3f425b34&q=CPRA+Golden+Target+Awards&sa=X&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q1QJ6BAhDEAE
+                  - generic [ref=e641]:
+                    - generic [ref=e646]: CPRA Golden Target Awards
+                    - img [ref=e650]
+                - link "Golden target award winners" [ref=e655] [cursor=pointer]:
+                  - /url: /search?sca_esv=26efe42c3f425b34&q=Golden+target+award+winners&sa=X&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q1QJ6BAhAEAE
+                  - generic [ref=e656]:
+                    - generic [ref=e661]: Golden target award winners
+                    - img [ref=e665]
+                - link "CommsCon Awards" [ref=e670] [cursor=pointer]:
+                  - /url: /search?sca_esv=26efe42c3f425b34&q=CommsCon+Awards&sa=X&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q1QJ6BAg9EAE
+                  - generic [ref=e671]:
+                    - generic [ref=e676]: CommsCon Awards
+                    - img [ref=e680]
+                - link "Mumbrella CommsCon Awards" [ref=e685] [cursor=pointer]:
+                  - /url: /search?sca_esv=26efe42c3f425b34&q=Mumbrella+CommsCon+Awards&sa=X&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q1QJ6BAg4EAE
+                  - generic [ref=e686]:
+                    - generic [ref=e691]: Mumbrella CommsCon Awards
+                    - img [ref=e695]
+          - navigation [ref=e697]:
+            - heading "Page navigation" [level=1] [ref=e698]
+            - text: "1"
+            - link "Page 2" [ref=e701] [cursor=pointer]:
+              - /url: /search?q=PRIA+Awards+2026+entry+deadline+cost&sca_esv=26efe42c3f425b34&ei=gETWaYvmFpGQur8Psvjc6Qs&start=10&sa=N&sstk=Af77f_cAGOyMeUydnI2WsPq1xVivCc1LmzvfckBEmHBtns_X7DQmpaKkw4q44YVblxm1TWIRKyNtYO94JDfyAmyhSpKl_i5gWo-oSA&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q8tMDegQIBhAE
+              - text: "2"
+            - link "Page 3" [ref=e703] [cursor=pointer]:
+              - /url: /search?q=PRIA+Awards+2026+entry+deadline+cost&sca_esv=26efe42c3f425b34&ei=gETWaYvmFpGQur8Psvjc6Qs&start=20&sa=N&sstk=Af77f_cAGOyMeUydnI2WsPq1xVivCc1LmzvfckBEmHBtns_X7DQmpaKkw4q44YVblxm1TWIRKyNtYO94JDfyAmyhSpKl_i5gWo-oSA&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q8tMDegQIBhAG
+              - text: "3"
+            - link "Page 4" [ref=e705] [cursor=pointer]:
+              - /url: /search?q=PRIA+Awards+2026+entry+deadline+cost&sca_esv=26efe42c3f425b34&ei=gETWaYvmFpGQur8Psvjc6Qs&start=30&sa=N&sstk=Af77f_cAGOyMeUydnI2WsPq1xVivCc1LmzvfckBEmHBtns_X7DQmpaKkw4q44YVblxm1TWIRKyNtYO94JDfyAmyhSpKl_i5gWo-oSA&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q8tMDegQIBhAI
+              - text: "4"
+            - link "Page 5" [ref=e707] [cursor=pointer]:
+              - /url: /search?q=PRIA+Awards+2026+entry+deadline+cost&sca_esv=26efe42c3f425b34&ei=gETWaYvmFpGQur8Psvjc6Qs&start=40&sa=N&sstk=Af77f_cAGOyMeUydnI2WsPq1xVivCc1LmzvfckBEmHBtns_X7DQmpaKkw4q44YVblxm1TWIRKyNtYO94JDfyAmyhSpKl_i5gWo-oSA&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q8tMDegQIBhAK
+              - text: "5"
+            - link "Page 6" [ref=e709] [cursor=pointer]:
+              - /url: /search?q=PRIA+Awards+2026+entry+deadline+cost&sca_esv=26efe42c3f425b34&ei=gETWaYvmFpGQur8Psvjc6Qs&start=50&sa=N&sstk=Af77f_cAGOyMeUydnI2WsPq1xVivCc1LmzvfckBEmHBtns_X7DQmpaKkw4q44YVblxm1TWIRKyNtYO94JDfyAmyhSpKl_i5gWo-oSA&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q8tMDegQIBhAM
+              - text: "6"
+            - link "Page 7" [ref=e711] [cursor=pointer]:
+              - /url: /search?q=PRIA+Awards+2026+entry+deadline+cost&sca_esv=26efe42c3f425b34&ei=gETWaYvmFpGQur8Psvjc6Qs&start=60&sa=N&sstk=Af77f_cAGOyMeUydnI2WsPq1xVivCc1LmzvfckBEmHBtns_X7DQmpaKkw4q44YVblxm1TWIRKyNtYO94JDfyAmyhSpKl_i5gWo-oSA&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q8tMDegQIBhAO
+              - text: "7"
+            - heading "Next" [level=2] [ref=e713]:
+              - link "Next" [ref=e714] [cursor=pointer]:
+                - /url: /search?q=PRIA+Awards+2026+entry+deadline+cost&sca_esv=26efe42c3f425b34&ei=gETWaYvmFpGQur8Psvjc6Qs&start=10&sa=N&sstk=Af77f_cAGOyMeUydnI2WsPq1xVivCc1LmzvfckBEmHBtns_X7DQmpaKkw4q44YVblxm1TWIRKyNtYO94JDfyAmyhSpKl_i5gWo-oSA&ved=2ahUKEwiLpv-1m96TAxURiO4BHTI8N70Q8NMDegQIBhAQ
+                - generic [ref=e716]: Next
+        - navigation
+    - contentinfo [ref=e717]:
+      - heading "Footer links" [level=1] [ref=e718]
+      - generic [ref=e722]:
+        - generic [ref=e724]:
+          - text: Australia
+          - generic [ref=e726]:
+            - button "City of Parramatta Council, Sydney NSW - From your IP address" [ref=e728] [cursor=pointer]:
+              - generic [ref=e729]: City of Parramatta Council, Sydney NSW
+              - generic [ref=e731]:
+                - text: "-"
+                - generic [ref=e732]: From your IP address
+            - text: "-"
+            - button "Update location" [ref=e734] [cursor=pointer]: Update location
+        - generic [ref=e737]:
+          - link "Help" [ref=e738] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en-AU&fg=1
+          - link "Send feedback" [ref=e739] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=e740] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-AU&fg=1
+          - link "Terms" [ref=e741] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-AU&fg=1

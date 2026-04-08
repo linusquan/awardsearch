@@ -1,0 +1,849 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link "Alley Group" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img [ref=e7]
+      - navigation [ref=e13]:
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - paragraph [ref=e16]: Acquisition
+            - img [ref=e18]
+          - generic:
+            - generic:
+              - generic:
+                - link "SEO":
+                  - /url: /acquisition/seo-specialists/
+                  - paragraph: SEO
+                  - paragraph
+              - generic:
+                - link "SEM":
+                  - /url: /acquisition/ppc-agency/
+                  - paragraph: SEM
+                  - paragraph
+              - generic:
+                - link "Social Media":
+                  - /url: /acquisition/paid-social-media/
+                  - paragraph: Social Media
+                  - paragraph
+        - generic [ref=e20]:
+          - generic [ref=e21]:
+            - paragraph [ref=e22]: Strategy
+            - img [ref=e24]
+          - generic:
+            - generic:
+              - generic:
+                - link "Consulting":
+                  - /url: /strategy/consulting/
+                  - paragraph: Consulting
+                  - paragraph
+              - generic:
+                - link "Performance":
+                  - /url: /strategy/performance/
+                  - paragraph: Performance
+                  - paragraph
+              - generic:
+                - link "Forecasting":
+                  - /url: /strategy/marketing-forecasting/
+                  - paragraph: Forecasting
+                  - paragraph
+              - generic:
+                - link "Training":
+                  - /url: /strategy/training/
+                  - paragraph: Training
+                  - paragraph
+        - generic [ref=e26]:
+          - generic [ref=e27]:
+            - paragraph [ref=e28]: Data
+            - img [ref=e30]
+          - generic:
+            - generic:
+              - generic:
+                - link "Google Analytics":
+                  - /url: /data/google-analytics/
+                  - paragraph: Google Analytics
+                  - paragraph
+              - generic:
+                - link "Reporting":
+                  - /url: /data/marketing-reporting/
+                  - paragraph: Reporting
+                  - paragraph
+              - generic:
+                - link "Data Warehousing":
+                  - /url: /data/data-warehousing/
+                  - paragraph: Data Warehousing
+                  - paragraph
+              - generic:
+                - link "Cloud":
+                  - /url: /data/cloud-consulting/
+                  - paragraph: Cloud
+                  - paragraph
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - paragraph [ref=e34]: Design
+            - img [ref=e36]
+          - generic:
+            - generic:
+              - generic:
+                - link "CRO":
+                  - /url: /design/cro/
+                  - paragraph: CRO
+                  - paragraph
+              - generic:
+                - link "Web Development":
+                  - /url: /design/web-development/
+                  - paragraph: Web Development
+                  - paragraph
+              - generic:
+                - link "Landing Pages":
+                  - /url: /design/landing-page-design/
+                  - paragraph: Landing Pages
+                  - paragraph
+        - generic [ref=e38]:
+          - generic [ref=e39]:
+            - paragraph [ref=e40]: News
+            - img [ref=e42]
+          - generic:
+            - generic:
+              - generic:
+                - link "Marketing":
+                  - /url: /news/category/marketing/
+                  - paragraph: Marketing
+                  - paragraph
+              - generic:
+                - link "Acquisition":
+                  - /url: /news/category/acquisition/
+                  - paragraph: Acquisition
+                  - paragraph
+              - generic:
+                - link "Data":
+                  - /url: /news/category/data/
+                  - paragraph: Data
+                  - paragraph
+              - generic:
+                - link "Strategy":
+                  - /url: /news/category/strategy/
+                  - paragraph: Strategy
+                  - paragraph
+              - generic:
+                - link "Design":
+                  - /url: /news/category/design/
+                  - paragraph: Design
+                  - paragraph
+              - generic:
+                - link "Team":
+                  - /url: /news/category/team-and-business/
+                  - paragraph: Team
+                  - paragraph
+        - generic [ref=e44]:
+          - generic [ref=e45]:
+            - paragraph [ref=e46]: About
+            - img [ref=e48]
+          - generic:
+            - generic:
+              - generic:
+                - link "About us":
+                  - /url: /about-us/
+                  - paragraph: About us
+                  - paragraph
+              - generic:
+                - link "Our locations":
+                  - /url: /contact/
+                  - paragraph: Our locations
+                  - paragraph
+              - generic:
+                - link "Team":
+                  - /url: /about-us/team/
+                  - paragraph: Team
+                  - paragraph
+              - generic:
+                - link "Fees":
+                  - /url: /about-us/fee-structure/
+                  - paragraph: Fees
+                  - paragraph
+              - generic:
+                - link "Work with us":
+                  - /url: /about-us/recruitment/
+                  - paragraph: Work with us
+                  - paragraph
+      - generic [ref=e50]:
+        - link "1300 932 698" [ref=e51] [cursor=pointer]:
+          - /url: tel:1300 932 698
+        - link "Get a quote" [ref=e52] [cursor=pointer]:
+          - /url: /get-a-quote/
+  - generic [ref=e53]:
+    - main [ref=e54]:
+      - generic [ref=e57]:
+        - iframe [ref=e59]:
+          
+        - generic:
+          - generic:
+            - generic: Go beyond media
+            - generic:
+              - generic: Do more
+              - generic: With less
+          - generic:
+            - img
+            - heading "Digital Marketing Agency Australia" [level=1]
+      - paragraph [ref=e64]:
+        - text: Revolutionise your
+        - strong [ref=e65]: business
+        - text: with campaigns that
+        - strong [ref=e66]: convert
+        - text: .
+      - generic [ref=e68]:
+        - generic [ref=e69]:
+          - generic [ref=e70]: 35k+
+          - generic [ref=e71]: Page 1 keywords
+        - generic [ref=e72]:
+          - generic [ref=e73]: $4.5M
+          - generic [ref=e74]: Monthly media spend
+        - generic [ref=e75]:
+          - generic [ref=e76]: 30+
+          - generic [ref=e77]: Channels used
+      - generic [ref=e79]:
+        - paragraph [ref=e82]:
+          - text: At Alley, innovation meets
+          - strong [ref=e83]: impact
+          - text: .
+        - generic [ref=e85]:
+          - paragraph [ref=e86]:
+            - text: As one of Australia's fastest-growing digital marketing agencies, we're featured on
+            - strong [ref=e87]:
+              - text: The Australian Financial Review’s
+              - emphasis [ref=e88]: Fast Starters
+            - text: and
+            - strong [ref=e89]:
+              - emphasis [ref=e90]: Fast 100
+              - text: .
+          - paragraph [ref=e91]:
+            - text: As well as being a
+            - strong [ref=e92]: Google Premier Partner
+            - text: ","
+            - strong [ref=e93]
+            - text: we are a
+            - strong [ref=e94]: Meta Partner
+            - text: and head up the
+            - strong [ref=e95]: IAB's Search Council.
+      - generic [ref=e98]:
+        - generic [ref=e101]:
+          - generic [ref=e103]:
+            - img [ref=e105]
+            - img [ref=e106]
+            - img "Logo for Travelex" [ref=e107]
+          - generic [ref=e109]:
+            - img [ref=e111]
+            - img [ref=e112]
+            - img "Logo for Salomon Group" [ref=e113]
+          - generic [ref=e115]:
+            - img [ref=e117]
+            - img [ref=e118]
+            - img "Logo for Telstra Health" [ref=e119]
+          - generic [ref=e121]:
+            - img [ref=e123]
+            - img [ref=e124]
+            - img "Logo for Tinder" [ref=e125]
+          - generic [ref=e127]:
+            - img [ref=e129]
+            - img [ref=e130]
+            - img "Logo for Seafolly Australia" [ref=e131]
+          - generic [ref=e133]:
+            - img [ref=e135]
+            - img [ref=e136]
+            - img "Logo for Hays" [ref=e137]
+          - generic [ref=e139]:
+            - img [ref=e141]
+            - img [ref=e142]
+            - img "Logo for Nestle Professional" [ref=e143]
+          - generic [ref=e145]:
+            - img [ref=e147]
+            - img [ref=e148]
+            - img "Logo for Woolworths Group" [ref=e149]
+          - generic [ref=e151]:
+            - img [ref=e153]
+            - img [ref=e154]
+            - img "Logo for Breville" [ref=e155]
+          - generic [ref=e157]:
+            - img [ref=e159]
+            - img [ref=e160]
+            - img "Logo for ADT Security" [ref=e161]
+        - generic [ref=e162]:
+          - generic [ref=e164]:
+            - img [ref=e166]
+            - img [ref=e167]
+            - img "Logo for Travelex" [ref=e168]
+          - generic [ref=e170]:
+            - img [ref=e172]
+            - img [ref=e173]
+            - img "Logo for Salomon Group" [ref=e174]
+          - generic [ref=e176]:
+            - img [ref=e178]
+            - img [ref=e179]
+            - img "Logo for Telstra Health" [ref=e180]
+          - generic [ref=e182]:
+            - img [ref=e184]
+            - img [ref=e185]
+            - img "Logo for Tinder" [ref=e186]
+          - generic [ref=e188]:
+            - img [ref=e190]
+            - img [ref=e191]
+            - img "Logo for Seafolly Australia" [ref=e192]
+          - generic [ref=e194]:
+            - img [ref=e196]
+            - img [ref=e197]
+            - img "Logo for Hays" [ref=e198]
+          - generic [ref=e200]:
+            - img [ref=e202]
+            - img [ref=e203]
+            - img "Logo for Nestle Professional" [ref=e204]
+          - generic [ref=e206]:
+            - img [ref=e208]
+            - img [ref=e209]
+            - img "Logo for Woolworths Group" [ref=e210]
+          - generic [ref=e212]:
+            - img [ref=e214]
+            - img [ref=e215]
+            - img "Logo for Breville" [ref=e216]
+          - generic [ref=e218]:
+            - img [ref=e220]
+            - img [ref=e221]
+            - img "Logo for ADT Security" [ref=e222]
+      - generic [ref=e225]:
+        - generic [ref=e227]:
+          - img [ref=e229]
+          - img [ref=e230]
+          - img "Two digital marketing experts with laptops" [ref=e231]
+        - generic [ref=e232]:
+          - heading "Why choose us?" [level=2] [ref=e235]
+          - generic [ref=e237]:
+            - paragraph [ref=e238]: Choosing a digital marketing agency is no small feat. Here's what sets Alley Group apart from the rest.
+            - list [ref=e239]:
+              - listitem [ref=e240]:
+                - strong [ref=e241]: Independent -
+                - text: Being independent means we're technology agnostic and can put the needs of our clients and staff first.
+              - listitem [ref=e242]:
+                - strong [ref=e243]: Passionate -
+                - text: We're an agency that lives and breathes marketing and has insider knowledge across a range of industries.
+              - listitem [ref=e244]:
+                - strong [ref=e245]: Experienced
+                - text: "- Owner-managed and driven by a highly specialised and diverse team, we know what works and what doesn't."
+            - paragraph [ref=e246]: Curious to uncover why our clients rave about us?
+            - paragraph [ref=e247]:
+              - text: Check out our
+              - link "Google Business Profile" [ref=e248] [cursor=pointer]:
+                - /url: https://www.google.com/search?num=10&sca_esv=38e0e84ee873df40&rlz=1C1GCEA_enAU1109AU1109&cs=0&sxsrf=ANbL-n58BZZPC4Z9MVLxg0PmZW462MGvKA:1770181143247&kgmid=/g/11b6b9rp25&q=Alley+Group+Sydney+Office&shem=bdsle,shrtsdl&shndl=30&source=sh/x/loc/uni/m1/1&kgs=35098ab24b8cda7a&utm_source=bdsle,shrtsdl,sh/x/loc/uni/m1/1
+              - text: or
+              - link "Clutch Profile" [ref=e249] [cursor=pointer]:
+                - /url: https://clutch.co/profile/alley-group
+              - text: to explore their testimonials and firsthand experiences.
+      - generic [ref=e251]:
+        - generic [ref=e252]:
+          - heading "Strategic spend, tangible triumphs." [level=2] [ref=e254]
+          - generic [ref=e255]: Explore our full suite of digital marketing services.
+        - generic [ref=e256]:
+          - generic [ref=e257]:
+            - generic [ref=e259]:
+              - img [ref=e261]
+              - img [ref=e262]
+              - img "enterprise SEO icon" [ref=e263]
+            - link "Enterprise SEO" [ref=e264] [cursor=pointer]:
+              - /url: /acquisition/seo-specialists/enterprise-seo/
+              - paragraph [ref=e265]: Enterprise SEO
+            - paragraph [ref=e268]: Scale up with intricate integrations designed for big brands & bigger results.
+            - generic [ref=e269]:
+              - generic:
+                - link:
+                  - /url: /acquisition/seo-specialists/enterprise-seo/
+          - generic [ref=e270]:
+            - generic [ref=e272]:
+              - img [ref=e274]
+              - img [ref=e275]
+              - img "SEM Paid Media Google Ads Logo" [ref=e276]
+            - link "SEM" [ref=e277] [cursor=pointer]:
+              - /url: /acquisition/ppc-agency/
+              - paragraph [ref=e278]: SEM
+            - paragraph [ref=e281]: Rethink your paid search potential & connect with ready-to-buy customers.
+            - generic [ref=e282]:
+              - generic:
+                - link:
+                  - /url: /acquisition/ppc-agency/
+          - generic [ref=e283]:
+            - generic [ref=e285]:
+              - img [ref=e287]
+              - img [ref=e288]
+              - img "consulting icon" [ref=e289]
+            - link "Consulting" [ref=e290] [cursor=pointer]:
+              - /url: /strategy/consulting/
+              - paragraph [ref=e291]: Consulting
+            - paragraph [ref=e294]: Overcome online obstacles with skilled experts who understand your market.
+            - generic [ref=e295]:
+              - generic:
+                - link:
+                  - /url: /strategy/consulting/
+          - generic [ref=e296]:
+            - generic [ref=e298]:
+              - img [ref=e300]
+              - img [ref=e301]
+              - img "Cloud Data Warehousing Icon" [ref=e302]
+            - link "Data Warehousing" [ref=e303] [cursor=pointer]:
+              - /url: /data/data-warehousing/
+              - paragraph [ref=e304]: Data Warehousing
+            - paragraph [ref=e307]: Consolidate your business data for effortless and streamlined analysis.
+            - generic [ref=e308]:
+              - generic:
+                - link:
+                  - /url: /data/data-warehousing/
+          - generic [ref=e309]:
+            - generic [ref=e311]:
+              - img [ref=e313]
+              - img [ref=e314]
+              - img "Web Development Icon" [ref=e315]
+            - link "Web Development" [ref=e316] [cursor=pointer]:
+              - /url: /design/web-development/
+              - paragraph [ref=e317]: Web Development
+            - paragraph [ref=e320]: Power up your presence with beautiful, functional web design and seamless UX.
+            - generic [ref=e321]:
+              - generic:
+                - link:
+                  - /url: /design/web-development/
+          - generic [ref=e322]:
+            - generic [ref=e324]:
+              - img [ref=e326]
+              - img [ref=e327]
+              - img "Google Analytics 4 icon" [ref=e328]
+            - link "Google Analytics" [ref=e329] [cursor=pointer]:
+              - /url: /data/google-analytics/
+              - paragraph [ref=e330]: Google Analytics
+            - paragraph [ref=e333]: Accurately track and measure website traffic with our Google Analytics service.
+            - generic [ref=e334]:
+              - generic:
+                - link:
+                  - /url: /data/google-analytics/
+      - generic [ref=e339]:
+        - img [ref=e341]
+        - img [ref=e342]
+        - img "The team" [ref=e343]
+      - generic [ref=e345]:
+        - generic [ref=e346]:
+          - heading "Real stories, real results." [level=2] [ref=e349]:
+            - text: Real stories,
+            - strong [ref=e350]: real results.
+          - generic [ref=e351]: Our track record speaks for itself.
+        - generic [ref=e354]:
+          - generic "previous" [ref=e355] [cursor=pointer]:
+            - img [ref=e356]
+          - generic [ref=e359]:
+            - generic [ref=e362]:
+              - img [ref=e364]
+              - generic [ref=e370]: Unlike most other agencies, Gary and his team felt like they were a direct extension of the core Helloworld team. If you're looking to build your brand online, I would definitely encourage you to give Alley Group the opportunity.
+              - generic [ref=e371]:
+                - generic [ref=e372]:
+                  - img [ref=e374]
+                  - img [ref=e375]
+                - generic [ref=e377]: Helloworld
+            - generic [ref=e380]:
+              - img [ref=e382]
+              - generic [ref=e388]: We've recently extended our contract with Alley Group into its 2nd year. We continue to be impressed by the excellent service and quality of their offerings and I eagerly anticipate our ongoing collaboration in the coming years.
+              - generic [ref=e389]:
+                - generic [ref=e390]:
+                  - img [ref=e392]
+                  - img [ref=e393]
+                - generic [ref=e395]: NGS Super
+            - generic [ref=e398]:
+              - img [ref=e400]
+              - generic [ref=e406]: As well as driving instant results and being subject matter experts, they’ve helped us by supplying training, suggesting other channels to utilise and providing client services in a way we believe an agency should.
+              - generic [ref=e407]:
+                - generic [ref=e408]:
+                  - img [ref=e410]
+                  - img [ref=e411]
+                - generic [ref=e413]: AAT Kings
+            - generic [ref=e416]:
+              - img [ref=e418]
+              - generic [ref=e424]: The onboarding process with Alley Group has been the most seamless I’ve experienced and we’ve been impressed with the results they’ve been driving.
+              - generic [ref=e425]:
+                - generic [ref=e426]:
+                  - img [ref=e428]
+                  - img [ref=e429]
+                - generic [ref=e431]: BBC Worldwide Australia
+            - generic [ref=e434]:
+              - img [ref=e436]
+              - generic [ref=e442]: Alley Group is a fantastic agency to work with! They've helped our online properties be more customer-centric, get the right exposure and engage our B2B stakeholders and all of these improvements have occurred within a short time frame.
+              - generic [ref=e443]:
+                - generic [ref=e444]:
+                  - img [ref=e446]
+                  - img [ref=e447]
+                - generic [ref=e449]: Nestlé
+            - generic [ref=e452]:
+              - img [ref=e454]
+              - generic [ref=e460]: Like any relationship, it’s important that you put your best foot forward. The on-boarding process with Alley Group has been the most seamless I’ve experienced, and we’ve been impressed with the results they’ve been driving.
+              - generic [ref=e461]:
+                - generic [ref=e462]:
+                  - img [ref=e464]
+                  - img [ref=e465]
+                - generic [ref=e467]: The Merivale Group
+            - generic [ref=e470]:
+              - img [ref=e472]
+              - generic [ref=e478]: We work collaboratively and have embarked on some innovative campaigns with strong results. They employ good people who are keen to work hard and know their stuff when it comes to SEO.
+              - generic [ref=e479]:
+                - generic [ref=e480]:
+                  - img [ref=e482]
+                  - img [ref=e483]
+                - generic [ref=e485]: Employsure
+            - generic [ref=e488]:
+              - img [ref=e490]
+              - generic [ref=e496]: We wanted an agency who would provide us with support and face-to-face time as we employ customer-centric people and wanted a team that held those same values. We now have an agency who is driving our business forward through proven expertise and hard work.
+              - generic [ref=e497]:
+                - generic [ref=e498]:
+                  - img [ref=e500]
+                  - img [ref=e501]
+                - generic [ref=e503]: Contiki Holidays
+            - generic [ref=e506]:
+              - img [ref=e508]
+              - generic [ref=e514]: We’re impressed with the level of dedication and detail placed on our campaigns. We work with numerous people at Alley Group who effectively communicate with each other to make sure that nothing drops off and none of our IP is lost.
+              - generic [ref=e515]:
+                - generic [ref=e516]:
+                  - img [ref=e518]
+                  - img [ref=e519]
+                - generic [ref=e521]: Crown Resorts
+            - generic [ref=e524]:
+              - img [ref=e526]
+              - generic [ref=e532]: Unlike most other agencies, Gary and his team felt like they were a direct extension of the core Helloworld team. If you're looking to build your brand online, I would definitely encourage you to give Alley Group the opportunity.
+              - generic [ref=e533]:
+                - generic [ref=e534]:
+                  - img [ref=e536]
+                  - img [ref=e537]
+                - generic [ref=e539]: Helloworld
+            - generic [ref=e542]:
+              - img [ref=e544]
+              - generic [ref=e550]: We've recently extended our contract with Alley Group into its 2nd year. We continue to be impressed by the excellent service and quality of their offerings and I eagerly anticipate our ongoing collaboration in the coming years.
+              - generic [ref=e551]:
+                - generic [ref=e552]:
+                  - img [ref=e554]
+                  - img [ref=e555]
+                - generic [ref=e557]: NGS Super
+            - generic [ref=e560]:
+              - img [ref=e562]
+              - generic [ref=e568]: As well as driving instant results and being subject matter experts, they’ve helped us by supplying training, suggesting other channels to utilise and providing client services in a way we believe an agency should.
+              - generic [ref=e569]:
+                - generic [ref=e570]:
+                  - img [ref=e572]
+                  - img [ref=e573]
+                - generic [ref=e575]: AAT Kings
+            - generic [ref=e578]:
+              - img [ref=e580]
+              - generic [ref=e586]: The onboarding process with Alley Group has been the most seamless I’ve experienced and we’ve been impressed with the results they’ve been driving.
+              - generic [ref=e587]:
+                - generic [ref=e588]:
+                  - img [ref=e590]
+                  - img [ref=e591]
+                - generic [ref=e593]: BBC Worldwide Australia
+            - generic [ref=e596]:
+              - img [ref=e598]
+              - generic [ref=e604]: Alley Group is a fantastic agency to work with! They've helped our online properties be more customer-centric, get the right exposure and engage our B2B stakeholders and all of these improvements have occurred within a short time frame.
+              - generic [ref=e605]:
+                - generic [ref=e606]:
+                  - img [ref=e608]
+                  - img [ref=e609]
+                - generic [ref=e611]: Nestlé
+            - generic [ref=e614]:
+              - img [ref=e616]
+              - generic [ref=e622]: Like any relationship, it’s important that you put your best foot forward. The on-boarding process with Alley Group has been the most seamless I’ve experienced, and we’ve been impressed with the results they’ve been driving.
+              - generic [ref=e623]:
+                - generic [ref=e624]:
+                  - img [ref=e626]
+                  - img [ref=e627]
+                - generic [ref=e629]: The Merivale Group
+            - generic [ref=e632]:
+              - img [ref=e634]
+              - generic [ref=e640]: We work collaboratively and have embarked on some innovative campaigns with strong results. They employ good people who are keen to work hard and know their stuff when it comes to SEO.
+              - generic [ref=e641]:
+                - generic [ref=e642]:
+                  - img [ref=e644]
+                  - img [ref=e645]
+                - generic [ref=e647]: Employsure
+            - generic [ref=e650]:
+              - img [ref=e652]
+              - generic [ref=e658]: We wanted an agency who would provide us with support and face-to-face time as we employ customer-centric people and wanted a team that held those same values. We now have an agency who is driving our business forward through proven expertise and hard work.
+              - generic [ref=e659]:
+                - generic [ref=e660]:
+                  - img [ref=e662]
+                  - img [ref=e663]
+                - generic [ref=e665]: Contiki Holidays
+            - generic [ref=e668]:
+              - img [ref=e670]
+              - generic [ref=e676]: We’re impressed with the level of dedication and detail placed on our campaigns. We work with numerous people at Alley Group who effectively communicate with each other to make sure that nothing drops off and none of our IP is lost.
+              - generic [ref=e677]:
+                - generic [ref=e678]:
+                  - img [ref=e680]
+                  - img [ref=e681]
+                - generic [ref=e683]: Crown Resorts
+            - generic [ref=e686]:
+              - img [ref=e688]
+              - generic [ref=e694]: Unlike most other agencies, Gary and his team felt like they were a direct extension of the core Helloworld team. If you're looking to build your brand online, I would definitely encourage you to give Alley Group the opportunity.
+              - generic [ref=e695]:
+                - generic [ref=e696]:
+                  - img [ref=e698]
+                  - img [ref=e699]
+                - generic [ref=e701]: Helloworld
+            - generic [ref=e704]:
+              - img [ref=e706]
+              - generic [ref=e712]: We've recently extended our contract with Alley Group into its 2nd year. We continue to be impressed by the excellent service and quality of their offerings and I eagerly anticipate our ongoing collaboration in the coming years.
+              - generic [ref=e713]:
+                - generic [ref=e714]:
+                  - img [ref=e716]
+                  - img [ref=e717]
+                - generic [ref=e719]: NGS Super
+            - generic [ref=e722]:
+              - img [ref=e724]
+              - generic [ref=e730]: As well as driving instant results and being subject matter experts, they’ve helped us by supplying training, suggesting other channels to utilise and providing client services in a way we believe an agency should.
+              - generic [ref=e731]:
+                - generic [ref=e732]:
+                  - img [ref=e734]
+                  - img [ref=e735]
+                - generic [ref=e737]: AAT Kings
+          - generic "next" [ref=e738] [cursor=pointer]:
+            - img [ref=e739]
+        - generic:
+          - generic:
+            - img
+          - img
+          - generic:
+            - img "Background blur"
+      - generic [ref=e743]:
+        - generic [ref=e745]:
+          - img [ref=e747]
+          - img [ref=e748]
+          - img "Glassdoor reviews" [ref=e749]
+        - generic [ref=e750]:
+          - heading "Staff happiness & retention" [level=2] [ref=e753]
+          - generic [ref=e755]:
+            - paragraph [ref=e756]: We understand quality service hinges on the calibre of our people.
+            - paragraph [ref=e757]: We're dedicated to fostering a work environment that prioritises the well-being of its staff. This commitment has translated to prolonged tenures and superior outcomes for our clients.
+            - paragraph [ref=e758]:
+              - text: Highlighted by our impressive
+              - link "Glassdoor" [ref=e759] [cursor=pointer]:
+                - /url: https://www.glassdoor.com.au/Overview/Working-at-Alley-Group-EI_IE2017776.11,22.htm
+              - text: review rating of 4.8 and a stellar 9/10 stars in our 2023 staff survey, Alley Group is dedicated to being an employer of choice.
+            - paragraph [ref=e760]: In December 2023, we were also nominated for the Google Premier Partners Workplace Excellence Award.
+      - generic [ref=e762]:
+        - heading "Frequently Asked Questions" [level=2] [ref=e765]
+        - generic [ref=e766]:
+          - generic [ref=e767]:
+            - heading "What are digital marketing services?" [level=3] [ref=e770]
+            - paragraph [ref=e774]: Digital marketing, also called online marketing, promotes brands to connect with potential customers using the Internet and other forms of digital communication. This includes email, social media, web-based advertising, and text and multimedia messages as a marketing channel.
+          - generic [ref=e775]:
+            - heading "How much does digital marketing cost in Australia?" [level=3] [ref=e778]
+            - generic:
+              - generic [ref=e781]:
+                - paragraph [ref=e782]: Hourly marketing consultant services in Australia generally range from AUD$130 to $360. This investment grants you access to expert advice and guidance for your marketing strategies.
+                - paragraph [ref=e783]:
+                  - text: Alternatively, for monthly digital marketing services, the price typically falls within the range of $5,000 to $14,300. Check out our
+                  - link "Fee Structure" [ref=e784] [cursor=pointer]:
+                    - /url: /about-us/fee-structure/
+                  - text: for more info.
+              - link "Get a free quote" [ref=e787] [cursor=pointer]:
+                - /url: /get-a-quote/
+          - generic [ref=e788]:
+            - heading "What are the 5 A's of digital marketing?" [level=3] [ref=e791]
+            - paragraph [ref=e795]: "Audience, Assets, Access, Attribution, and Automatisation: embrace the 5 A's as your guiding principles. Craft a strategy around each pillar to become a champion of digital transformation, enhancing customer experiences and driving business performance to new heights."
+          - generic [ref=e796]:
+            - heading "Is hiring a digital marketing agency worth it?" [level=3] [ref=e799]
+            - paragraph [ref=e803]: Collaborating with a digital marketing agency can prove to be a cost-effective alternative to assembling an entire in-house team. However, it's not solely about the financial aspect; efficiency also plays a pivotal role. Digital marketing agencies, such as Alley Group, are finely tuned marketing powerhouses.
+          - generic [ref=e804]:
+            - heading "What are the four main elements of digital marketing?" [level=3] [ref=e807]
+            - paragraph [ref=e811]:
+              - text: "Digital marketing encompasses four key elements: market research,"
+              - link "website development" [ref=e812] [cursor=pointer]:
+                - /url: /design/web-development/
+              - text: ", online advertising, and"
+              - link "social media" [ref=e813] [cursor=pointer]:
+                - /url: /acquisition/paid-social-media/
+              - text: marketing. Each of these components holds its significance and requires thoughtful consideration to formulate a prosperous digital marketing strategy.
+      - generic [ref=e815]:
+        - generic [ref=e816]:
+          - heading "Stay up to date" [level=2] [ref=e818]
+          - generic [ref=e819]: Recent news & expert guides.
+        - generic [ref=e821]:
+          - link "Collage hands holding phone surrounded by AI chatbot bubbles. Why Your Virtual Assistant is Your Best (and Cheapest) CRO Tool Nitin Karunakaran - 7 min read" [ref=e822] [cursor=pointer]:
+            - /url: /news/why-your-virtual-assistant-is-your-best-and-cheapest-cro-tool/
+            - generic [ref=e824]:
+              - img [ref=e826]
+              - img [ref=e827]
+              - img "Collage hands holding phone surrounded by AI chatbot bubbles." [ref=e828]
+            - heading "Why Your Virtual Assistant is Your Best (and Cheapest) CRO Tool" [level=3] [ref=e829]
+            - generic [ref=e830]:
+              - text: Nitin Karunakaran
+              - generic [ref=e831]: "- 7 min read"
+          - 'link "Two phones displaying example of ChatGPT ads ChatGPT Ads Are Coming: Here’s What To Expect Nat Taylor - 7 min read" [ref=e832] [cursor=pointer]':
+            - /url: /news/chatgpt-ads-are-coming/
+            - generic [ref=e834]:
+              - img [ref=e836]
+              - img [ref=e837]
+              - img "Two phones displaying example of ChatGPT ads" [ref=e838]
+            - 'heading "ChatGPT Ads Are Coming: Here’s What To Expect" [level=3] [ref=e839]'
+            - generic [ref=e840]:
+              - text: Nat Taylor
+              - generic [ref=e841]: "- 7 min read"
+          - 'link "A screen with ChatGPT interface on it and magnifying glass icon AI Visibility Isn’t About Traffic: Measuring Brand Authority in Generative Engines Tahlia Reynolds - 13 min read" [ref=e842] [cursor=pointer]':
+            - /url: /news/why-ai-visibility-isnt-about-traffic/
+            - generic [ref=e844]:
+              - img [ref=e846]
+              - img [ref=e847]
+              - img "A screen with ChatGPT interface on it and magnifying glass icon" [ref=e848]
+            - 'heading "AI Visibility Isn’t About Traffic: Measuring Brand Authority in Generative Engines" [level=3] [ref=e849]'
+            - generic [ref=e850]:
+              - text: Tahlia Reynolds
+              - generic [ref=e851]: "- 13 min read"
+      - generic [ref=e853]:
+        - generic [ref=e854]:
+          - img [ref=e856]
+          - img [ref=e857]
+          - img "Team members thinking together" [ref=e858]
+        - generic [ref=e859]:
+          - generic [ref=e860]:
+            - generic [ref=e861]: Get in touch
+            - generic [ref=e862]: Ready to get the ball rolling? Drop us a line.
+          - generic [ref=e865]:
+            - generic [ref=e866]:
+              - generic [ref=e867]: First name*
+              - textbox "John" [ref=e868]
+            - generic [ref=e869]:
+              - generic [ref=e870]: Last name*
+              - textbox "Doe" [ref=e871]
+            - generic [ref=e872]:
+              - generic [ref=e873]: Email address*
+              - textbox "thisisanemail@gmail.com" [ref=e874]
+            - generic [ref=e875]:
+              - generic [ref=e876]: Phone number*
+              - textbox "0422 123 456" [ref=e877]
+            - generic [ref=e878]:
+              - generic [ref=e879]: Company*
+              - textbox "Company name" [ref=e880]
+            - generic [ref=e881]:
+              - generic [ref=e882]: Your message
+              - textbox "Write something nice" [ref=e883]
+            - button "Get in touch" [ref=e884] [cursor=pointer]
+    - contentinfo [ref=e885]:
+      - generic [ref=e886]:
+        - generic [ref=e887]:
+          - generic [ref=e888]:
+            - link "Alley Group logo" [ref=e889] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e890]:
+                - img [ref=e892]
+                - img [ref=e893]
+                - img "Alley Group logo" [ref=e894]
+            - link "2/69 Reservoir Street Surry Hills, NSW 2010 Sydney, Australia" [ref=e895] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/FbzkvZoVcLQQjUr4A
+            - link "Level 2 Suite 1/230 Balaclava Rd, Caulfield North VIC 3161" [ref=e896] [cursor=pointer]:
+              - /url: https://www.google.com/maps/place/Alley+Melbourne/data=!4m2!3m1!1s0x0:0xa7ee35a07c919934?sa=X&ved=1t:2428&ictx=111
+          - generic [ref=e897]:
+            - generic [ref=e898]:
+              - paragraph [ref=e899]: SEO
+              - generic [ref=e900]:
+                - link "Enterprise SEO" [ref=e901] [cursor=pointer]:
+                  - /url: /acquisition/seo-specialists/enterprise-seo/
+                - link "International SEO" [ref=e902] [cursor=pointer]:
+                  - /url: /acquisition/seo-specialists/international-seo/
+                - link "Migrations" [ref=e903] [cursor=pointer]:
+                  - /url: /acquisition/seo-specialists/website-migrations/
+                - link "Content" [ref=e904] [cursor=pointer]:
+                  - /url: /acquisition/seo-specialists/copywriters/
+                - link "Technical SEO" [ref=e905] [cursor=pointer]:
+                  - /url: /acquisition/seo-specialists/technical-audit/
+                - link "Keyword Research" [ref=e906] [cursor=pointer]:
+                  - /url: /acquisition/seo-specialists/keyword-research/
+                - link "Competitor Research" [ref=e907] [cursor=pointer]:
+                  - /url: /acquisition/seo-specialists/competitor-research/
+                - link "Link Building" [ref=e908] [cursor=pointer]:
+                  - /url: /acquisition/seo-specialists/link-building/
+                - link "Local SEO" [ref=e909] [cursor=pointer]:
+                  - /url: /acquisition/seo-specialists/local-seo/
+            - generic [ref=e910]:
+              - paragraph [ref=e911]: Paid Media
+              - generic [ref=e912]:
+                - link "Google Ads" [ref=e913] [cursor=pointer]:
+                  - /url: /acquisition/ppc-agency/google-partner/
+                - link "Bing Ads" [ref=e914] [cursor=pointer]:
+                  - /url: /acquisition/ppc-agency/bing-ad-agency/
+                - link "Social Media" [ref=e915] [cursor=pointer]:
+                  - /url: /acquisition/paid-social-media/
+                - link "Meta" [ref=e916] [cursor=pointer]:
+                  - /url: /acquisition/paid-social-media/meta-agency/
+                - link "TikTok" [ref=e917] [cursor=pointer]:
+                  - /url: /acquisition/paid-social-media/tiktok-partner/
+                - link "Google Display Ads" [ref=e918] [cursor=pointer]:
+                  - /url: /acquisition/google-display/
+                - link "YouTube" [ref=e919] [cursor=pointer]:
+                  - /url: /acquisition/youtube/
+                - link "CRO" [ref=e920] [cursor=pointer]:
+                  - /url: /design/cro/
+                - link "Landing pages" [ref=e921] [cursor=pointer]:
+                  - /url: /design/landing-page-design/
+            - generic [ref=e922]:
+              - paragraph [ref=e923]: Strategy
+              - generic [ref=e924]:
+                - link "Consulting" [ref=e925] [cursor=pointer]:
+                  - /url: /strategy/consulting/
+                - link "Performance" [ref=e926] [cursor=pointer]:
+                  - /url: /strategy/performance/
+                - link "Forecasting" [ref=e927] [cursor=pointer]:
+                  - /url: /strategy/marketing-forecasting/
+                - link "Training" [ref=e928] [cursor=pointer]:
+                  - /url: /strategy/training/
+                - link "SEO Training" [ref=e929] [cursor=pointer]:
+                  - /url: /strategy/training/seo/
+                - link "Analytics Training" [ref=e930] [cursor=pointer]:
+                  - /url: /strategy/training/ga4/
+                - link "C-Suite Training" [ref=e931] [cursor=pointer]:
+                  - /url: /strategy/training/c-suite/
+            - generic [ref=e932]:
+              - paragraph [ref=e933]: Data
+              - generic [ref=e934]:
+                - link "Reporting" [ref=e935] [cursor=pointer]:
+                  - /url: /data/marketing-reporting/
+                - link "Data Visualisation" [ref=e936] [cursor=pointer]:
+                  - /url: /data/marketing-reporting/data-visualisation/
+                - link "Analytics" [ref=e937] [cursor=pointer]:
+                  - /url: /data/analytics/
+                - link "Cloud" [ref=e938] [cursor=pointer]:
+                  - /url: /data/cloud-consulting/
+                - link "Google Analytics" [ref=e939] [cursor=pointer]:
+                  - /url: /data/google-analytics/
+                - link "Data Warehousing" [ref=e940] [cursor=pointer]:
+                  - /url: /data/data-warehousing/
+        - generic [ref=e941]:
+          - generic [ref=e942]:
+            - generic [ref=e943]: © 2026 Alley Group
+            - generic [ref=e944]:
+              - link "Privacy Policy•" [ref=e945] [cursor=pointer]:
+                - /url: /privacy-policy/
+              - link "Terms and Conditions•" [ref=e946] [cursor=pointer]:
+                - /url: /terms-and-conditions/
+              - link "Sitemap" [ref=e947] [cursor=pointer]:
+                - /url: /sitemap/
+          - generic [ref=e948]:
+            - link "Facebook" [ref=e949] [cursor=pointer]:
+              - /url: https://www.facebook.com/alleyhq/
+              - generic [ref=e950]:
+                - img [ref=e952]
+                - img [ref=e953]
+                - img "Facebook" [ref=e954]
+            - link "X" [ref=e955] [cursor=pointer]:
+              - /url: https://x.com/alleyhq
+              - generic [ref=e956]:
+                - img [ref=e958]
+                - img [ref=e959]
+                - img "X" [ref=e960]
+            - link "Linkedin" [ref=e961] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/alley-group/
+              - generic [ref=e962]:
+                - img [ref=e964]
+                - img [ref=e965]
+                - img "Linkedin" [ref=e966]
+            - link "Google marketplace" [ref=e967] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/YAd5gNjD2JQMYxcC9
+              - generic [ref=e968]:
+                - img [ref=e970]
+                - img [ref=e971]
+                - img "Google marketplace" [ref=e972]

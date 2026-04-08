@@ -1,0 +1,720 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e5]: 25 March 2026 | Crown Sydney
+      - navigation [ref=e6]:
+        - list [ref=e7]:
+          - listitem [ref=e8]:
+            - link "About" [ref=e9] [cursor=pointer]:
+              - /url: "#about"
+          - listitem [ref=e10]:
+            - link "Categories" [ref=e11] [cursor=pointer]:
+              - /url: "#categories"
+          - listitem [ref=e12]:
+            - link "Tickets" [ref=e13] [cursor=pointer]:
+              - /url: "#tickets"
+          - listitem [ref=e14]:
+            - link "Partners" [ref=e15] [cursor=pointer]:
+              - /url: "#partners"
+          - listitem [ref=e16]:
+            - link "Contact" [ref=e17] [cursor=pointer]:
+              - /url: "#contact"
+      - link "VIEW WINNERS" [ref=e18] [cursor=pointer]:
+        - /url: "#winners"
+  - main [ref=e19]:
+    - generic [ref=e20]:
+      - img "CommsCon Awards_Edelman_REV_H" [ref=e33]
+      - generic [ref=e37]:
+        - generic [ref=e39]:
+          - heading "The most prestigious PR & communications awards" [level=2] [ref=e42]
+          - generic [ref=e45]:
+            - paragraph [ref=e46]: The CommsCon Awards return for 2026 to recognise excellence, innovation and impact across Australia and New Zealand’s PR and communications industry. Communications professionals now sit at the heart of business leadership, tasked with navigating complexity, building trust, and shaping the narratives that define reputation and public confidence.
+            - paragraph [ref=e47]: These prestigious awards now include new categories recognising this transformation. Best Use of Strategic Communications has been launched to recognise teams driving reputation, stakeholder influence and long-term corporate trust. Non-Traditional Campaign of the Year has been redefined to highlight communications thinking applied to behaviour change, customer experience and innovation.
+            - paragraph [ref=e48]:
+              - text: Plus, this year
+              - strong [ref=e49]: the Emerging Talent award will be free to enter
+              - text: ", reflecting Mumbrella’s commitment to supporting the next generation shaping the future of the profession."
+        - iframe [ref=e56]:
+          - application "Video Player - Mumbrella - Comms Con Awards 2025 - Final" [ref=f1e2]:
+            - generic [ref=f1e4]:
+              - generic [ref=f1e8]: 0 seconds of 1 minute, 18 secondsVolume 90%
+              - generic:
+                - button "Play" [ref=f1e9] [cursor=pointer]:
+                  - img
+                - text: /
+      - generic [ref=e59]:
+        - heading "2026 AWARD CATEGORIES" [level=2] [ref=e65]
+        - generic [ref=e66]:
+          - generic [ref=e68]:
+            - heading "CAMPAIGN CATEGORIES" [level=2] [ref=e71]
+            - paragraph [ref=e75]:
+              - text: Best Social Media or Digitally-Led Campaign
+              - text: Best B2C Campaign
+              - text: Best B2B Campaign
+              - text: Best Campaign with a Small Budget
+              - text: Best Use of Owned Media
+              - text: Best PR-Led Content Creation
+              - text: Best Internal Communications or Change Management Campaign
+              - text: Launch or Relaunch Campaign of the Year
+              - text: Best Government or Public Sector Campaign
+              - text: Best PR-Led Brand Partnership
+              - text: Corporate Social Responsibility or ESG Campaign
+              - text: Pro Bono Campaign of the Year
+              - text: Best Use of Research, Insights & Strategic Planning
+              - text: Best Media Relations-Led Campaign
+              - text: Best Use of the Creator Economy
+              - strong [ref=e76]: NEW
+              - text: "- Best Use of Strategic Communications"
+              - text: Non-Traditional Campaign of the Year
+          - generic [ref=e78]:
+            - heading "PEOPLE CATEGORIES" [level=2] [ref=e81]
+            - paragraph [ref=e85]:
+              - text: Emerging PR & Communications Talent of the Year -
+              - strong [ref=e86]: FREE
+              - text: PR Professional of the Year
+              - text: PR Leader of the Year
+            - heading "BUSINESS CATEGORIES" [level=2] [ref=e89]
+            - paragraph [ref=e93]:
+              - text: Best PR Employer
+              - text: Best In-House PR Team
+              - text: PR Agency of the Year - Boutique/Small (1-6 Staff)
+              - text: PR Agency of the Year – Midsize (7-25 Staff)
+              - text: PR Agency of the Year – Large (26+ Staff)
+              - text: Strategic Communications Team of the Year -
+              - strong [ref=e94]: NEW
+        - generic [ref=e97]:
+          - paragraph [ref=e101]: Entry submissions have now closed.
+          - link "ENTRY GUIDELINES" [ref=e105] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2025/10/2026-CommsCon-Awards-Call-for-Entries-Booklet-V2.pdf
+      - generic [ref=e111]:
+        - heading "CONGRATULATIONS TO THE 2026 AWARD WINNERS" [level=2] [ref=e114]
+        - generic [ref=e115]:
+          - generic [ref=e120]:
+            - generic [ref=e122] [cursor=pointer]:
+              - link "Best Social Media or Digitally-led Campaign" [ref=e123]:
+                - /url: "#"
+              - link " Expand" [ref=e124]:
+                - /url: "#"
+                - generic "Expand" [ref=e125]:
+                  - text: 
+                  - generic [ref=e126]: Expand
+            - generic [ref=e128] [cursor=pointer]:
+              - link "Best B2C Campaign" [ref=e129]:
+                - /url: "#"
+              - link " Expand" [ref=e130]:
+                - /url: "#"
+                - generic "Expand" [ref=e131]:
+                  - text: 
+                  - generic [ref=e132]: Expand
+            - generic [ref=e134] [cursor=pointer]:
+              - link "Best B2B Campaign" [ref=e135]:
+                - /url: "#"
+              - link " Expand" [ref=e136]:
+                - /url: "#"
+                - generic "Expand" [ref=e137]:
+                  - text: 
+                  - generic [ref=e138]: Expand
+            - generic [ref=e140] [cursor=pointer]:
+              - link "Best Campaign with a Small Budget" [ref=e141]:
+                - /url: "#"
+              - link " Expand" [ref=e142]:
+                - /url: "#"
+                - generic "Expand" [ref=e143]:
+                  - text: 
+                  - generic [ref=e144]: Expand
+            - generic [ref=e146] [cursor=pointer]:
+              - link "Best Use of Owned Media" [ref=e147]:
+                - /url: "#"
+              - link " Expand" [ref=e148]:
+                - /url: "#"
+                - generic "Expand" [ref=e149]:
+                  - text: 
+                  - generic [ref=e150]: Expand
+            - generic [ref=e152] [cursor=pointer]:
+              - link "Best PR-led Content Creation" [ref=e153]:
+                - /url: "#"
+              - link " Expand" [ref=e154]:
+                - /url: "#"
+                - generic "Expand" [ref=e155]:
+                  - text: 
+                  - generic [ref=e156]: Expand
+            - generic [ref=e158] [cursor=pointer]:
+              - link "Best Internal Communications or Change Management Campaign" [ref=e159]:
+                - /url: "#"
+              - link " Expand" [ref=e160]:
+                - /url: "#"
+                - generic "Expand" [ref=e161]:
+                  - text: 
+                  - generic [ref=e162]: Expand
+            - generic [ref=e164] [cursor=pointer]:
+              - link "Launch or Relaunch Campaign of the Year" [ref=e165]:
+                - /url: "#"
+              - link " Expand" [ref=e166]:
+                - /url: "#"
+                - generic "Expand" [ref=e167]:
+                  - text: 
+                  - generic [ref=e168]: Expand
+            - generic [ref=e170] [cursor=pointer]:
+              - link "Best Government or Public Sector Campaign" [ref=e171]:
+                - /url: "#"
+              - link " Expand" [ref=e172]:
+                - /url: "#"
+                - generic "Expand" [ref=e173]:
+                  - text: 
+                  - generic [ref=e174]: Expand
+            - generic [ref=e176] [cursor=pointer]:
+              - link "Best PR-Led Brand Partnership" [ref=e177]:
+                - /url: "#"
+              - link " Expand" [ref=e178]:
+                - /url: "#"
+                - generic "Expand" [ref=e179]:
+                  - text: 
+                  - generic [ref=e180]: Expand
+            - generic [ref=e182] [cursor=pointer]:
+              - link "Corporate Social Responsibility or ESG Campaign" [ref=e183]:
+                - /url: "#"
+              - link " Expand" [ref=e184]:
+                - /url: "#"
+                - generic "Expand" [ref=e185]:
+                  - text: 
+                  - generic [ref=e186]: Expand
+            - generic [ref=e188] [cursor=pointer]:
+              - link "Pro Bono Campaign of the Year" [ref=e189]:
+                - /url: "#"
+              - link " Expand" [ref=e190]:
+                - /url: "#"
+                - generic "Expand" [ref=e191]:
+                  - text: 
+                  - generic [ref=e192]: Expand
+            - generic [ref=e194] [cursor=pointer]:
+              - link "Best Use of Research, Insights & Strategic Planning" [ref=e195]:
+                - /url: "#"
+              - link " Expand" [ref=e196]:
+                - /url: "#"
+                - generic "Expand" [ref=e197]:
+                  - text: 
+                  - generic [ref=e198]: Expand
+          - generic [ref=e203]:
+            - generic [ref=e205] [cursor=pointer]:
+              - link "Best Media Relations-Led Campaign" [ref=e206]:
+                - /url: "#"
+              - link " Expand" [ref=e207]:
+                - /url: "#"
+                - generic "Expand" [ref=e208]:
+                  - text: 
+                  - generic [ref=e209]: Expand
+            - generic [ref=e211] [cursor=pointer]:
+              - link "Best Use of Creator Economy" [ref=e212]:
+                - /url: "#"
+              - link " Expand" [ref=e213]:
+                - /url: "#"
+                - generic "Expand" [ref=e214]:
+                  - text: 
+                  - generic [ref=e215]: Expand
+            - generic [ref=e217] [cursor=pointer]:
+              - link "Best Use of Strategic Communications" [ref=e218]:
+                - /url: "#"
+              - link " Expand" [ref=e219]:
+                - /url: "#"
+                - generic "Expand" [ref=e220]:
+                  - text: 
+                  - generic [ref=e221]: Expand
+            - generic [ref=e223] [cursor=pointer]:
+              - link "Non-Traditional Campaign of the Year" [ref=e224]:
+                - /url: "#"
+              - link " Expand" [ref=e225]:
+                - /url: "#"
+                - generic "Expand" [ref=e226]:
+                  - text: 
+                  - generic [ref=e227]: Expand
+            - generic [ref=e229] [cursor=pointer]:
+              - link "Emerging PR & Communications Talent of the Year" [ref=e230]:
+                - /url: "#"
+              - link " Expand" [ref=e231]:
+                - /url: "#"
+                - generic "Expand" [ref=e232]:
+                  - text: 
+                  - generic [ref=e233]: Expand
+            - generic [ref=e235] [cursor=pointer]:
+              - link "PR Professional of the Year" [ref=e236]:
+                - /url: "#"
+              - link " Expand" [ref=e237]:
+                - /url: "#"
+                - generic "Expand" [ref=e238]:
+                  - text: 
+                  - generic [ref=e239]: Expand
+            - generic [ref=e241] [cursor=pointer]:
+              - link "PR Leader of the Year" [ref=e242]:
+                - /url: "#"
+              - link " Expand" [ref=e243]:
+                - /url: "#"
+                - generic "Expand" [ref=e244]:
+                  - text: 
+                  - generic [ref=e245]: Expand
+            - generic [ref=e247] [cursor=pointer]:
+              - link "Best PR Employer" [ref=e248]:
+                - /url: "#"
+              - link " Expand" [ref=e249]:
+                - /url: "#"
+                - generic "Expand" [ref=e250]:
+                  - text: 
+                  - generic [ref=e251]: Expand
+            - generic [ref=e253] [cursor=pointer]:
+              - link "Best In-House PR Team" [ref=e254]:
+                - /url: "#"
+              - link " Expand" [ref=e255]:
+                - /url: "#"
+                - generic "Expand" [ref=e256]:
+                  - text: 
+                  - generic [ref=e257]: Expand
+            - generic [ref=e259] [cursor=pointer]:
+              - link "Strategic Communications Team of the Year" [ref=e260]:
+                - /url: "#"
+              - link " Expand" [ref=e261]:
+                - /url: "#"
+                - generic "Expand" [ref=e262]:
+                  - text: 
+                  - generic [ref=e263]: Expand
+            - generic [ref=e265] [cursor=pointer]:
+              - link "PR Agency of the Year - Boutique/Small" [ref=e266]:
+                - /url: "#"
+              - link " Expand" [ref=e267]:
+                - /url: "#"
+                - generic "Expand" [ref=e268]:
+                  - text: 
+                  - generic [ref=e269]: Expand
+            - generic [ref=e271] [cursor=pointer]:
+              - link "PR Agency of the Year - Midsize" [ref=e272]:
+                - /url: "#"
+              - link " Expand" [ref=e273]:
+                - /url: "#"
+                - generic "Expand" [ref=e274]:
+                  - text: 
+                  - generic [ref=e275]: Expand
+            - generic [ref=e277] [cursor=pointer]:
+              - link "PR Agency of the Year – Large" [ref=e278]:
+                - /url: "#"
+              - link " Expand" [ref=e279]:
+                - /url: "#"
+                - generic "Expand" [ref=e280]:
+                  - text: 
+                  - generic [ref=e281]: Expand
+      - generic [ref=e287]:
+        - heading "2026 WINNERS GALLERY" [level=2] [ref=e290]
+        - generic [ref=e293]:
+          - link "Best Social Media or Digitally-Led Campaign Snoop Doggy Doppelganger – Bolster Group & Splash for Treasury Wines" [ref=e294] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-7936.jpg
+            - generic [ref=e295]:
+              - heading "Best Social Media or Digitally-Led Campaign" [level=4] [ref=e296]
+              - paragraph [ref=e297]: Snoop Doggy Doppelganger – Bolster Group & Splash for Treasury Wines
+          - link "Best B2C Campaign Cuckoo for Labubu – PassportCard Travel Insurance with SCPR" [ref=e298] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-7949.jpg
+            - generic [ref=e299]:
+              - heading "Best B2C Campaign" [level=4] [ref=e300]
+              - paragraph [ref=e301]: Cuckoo for Labubu – PassportCard Travel Insurance with SCPR
+          - link "Best B2B Campaign LMI Lets Me In/Invest – Helia" [ref=e302] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-7953.jpg
+            - generic [ref=e303]:
+              - heading "Best B2B Campaign" [level=4] [ref=e304]
+              - paragraph [ref=e305]: LMI Lets Me In/Invest – Helia
+          - link "Best Campaign with a Small Budget A Soak in the Spotlight – Belgravia Leisure for Hepburn Bathhouse & Spa" [ref=e306] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-7965.jpg
+            - generic [ref=e307]:
+              - heading "Best Campaign with a Small Budget" [level=4] [ref=e308]
+              - paragraph [ref=e309]: A Soak in the Spotlight – Belgravia Leisure for Hepburn Bathhouse & Spa
+          - link "Best Use of Owned Media How Ya Travellin’ – Keep Left for Healthy Heads in Trucks & Sheds" [ref=e310] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-7973.jpg
+            - generic [ref=e311]:
+              - heading "Best Use of Owned Media" [level=4] [ref=e312]
+              - paragraph [ref=e313]: How Ya Travellin’ – Keep Left for Healthy Heads in Trucks & Sheds
+          - link "Best PR-led Content Creation Life360Pets – Once Lost, Now Legendary – History Will Be Kind for Life360" [ref=e314] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-7979.jpg
+            - generic [ref=e315]:
+              - heading "Best PR-led Content Creation" [level=4] [ref=e316]
+              - paragraph [ref=e317]: Life360Pets – Once Lost, Now Legendary – History Will Be Kind for Life360
+          - 'link "Best Internal Communications or Change Management Campaign Turning the Tide: TasWater’s Internal Communications Revolution - TasWater" [ref=e318] [cursor=pointer]':
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-7986.jpg
+            - generic [ref=e319]:
+              - heading "Best Internal Communications or Change Management Campaign" [level=4] [ref=e320]
+              - paragraph [ref=e321]: "Turning the Tide: TasWater’s Internal Communications Revolution - TasWater"
+          - link "Launch or Relaunch Campaign of the Year ASICS Running on a Cloud – Agent99 PR for ASICS" [ref=e322] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-7991.jpg
+            - generic [ref=e323]:
+              - heading "Launch or Relaunch Campaign of the Year" [level=4] [ref=e324]
+              - paragraph [ref=e325]: ASICS Running on a Cloud – Agent99 PR for ASICS
+          - link "Best Government or Public Sector Campaign “I Can Do It” – Co-Design to Take Control of Ice Use in Jail – House of Kitch for Justice Health NSW & NSW Health Centre for Alcohol and Other Drugs" [ref=e326] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-7997.jpg
+            - generic [ref=e327]:
+              - heading "Best Government or Public Sector Campaign" [level=4] [ref=e328]
+              - paragraph [ref=e329]: “I Can Do It” – Co-Design to Take Control of Ice Use in Jail – House of Kitch for Justice Health NSW & NSW Health Centre for Alcohol and Other Drugs
+          - link "Best PR-Led Brand Partnership Jack’s Rides – We Are Different with The Zoo Republic for Jack Daniel’s" [ref=e330] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-8008.jpg
+            - generic [ref=e331]:
+              - heading "Best PR-Led Brand Partnership" [level=4] [ref=e332]
+              - paragraph [ref=e333]: Jack’s Rides – We Are Different with The Zoo Republic for Jack Daniel’s
+          - link "Corporate Social Responsibility or ESG Campaign FrogID Week 2025 – Australian Museum with Original Spin" [ref=e334] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-8015.jpg
+            - generic [ref=e335]:
+              - heading "Corporate Social Responsibility or ESG Campaign" [level=4] [ref=e336]
+              - paragraph [ref=e337]: FrogID Week 2025 – Australian Museum with Original Spin
+          - link "Pro Bono Campaign of the Year Grooming Hides Behind Harmless – Shannon Behaviour ChangePR for Bravehearts" [ref=e338] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-8022.jpg
+            - generic [ref=e339]:
+              - heading "Pro Bono Campaign of the Year" [level=4] [ref=e340]
+              - paragraph [ref=e341]: Grooming Hides Behind Harmless – Shannon Behaviour ChangePR for Bravehearts
+          - link "Best Use of Research, Insights & Strategic Planning The Life-Changing Loo Roll – We Are Different for Kleenex" [ref=e342] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-8028.jpg
+            - generic [ref=e343]:
+              - heading "Best Use of Research, Insights & Strategic Planning" [level=4] [ref=e344]
+              - paragraph [ref=e345]: The Life-Changing Loo Roll – We Are Different for Kleenex
+          - link "Best Media Relations-Led Campaign Grief is 24/7 – GoodPR for Red Nose Australia" [ref=e346] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-8040.jpg
+            - generic [ref=e347]:
+              - heading "Best Media Relations-Led Campaign" [level=4] [ref=e348]
+              - paragraph [ref=e349]: Grief is 24/7 – GoodPR for Red Nose Australia
+          - link "Best Use of Creator Economy Australia’s Funnest Fun Run – Hello for Liquid I.V." [ref=e350] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-8047.jpg
+            - generic [ref=e351]:
+              - heading "Best Use of Creator Economy" [level=4] [ref=e352]
+              - paragraph [ref=e353]: Australia’s Funnest Fun Run – Hello for Liquid I.V.
+          - link "Best Use of Strategic Communications This is World Heritage – Orizontas with Rethink Everything for Murujuga Aboriginal Corporation" [ref=e354] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-8055.jpg
+            - generic [ref=e355]:
+              - heading "Best Use of Strategic Communications" [level=4] [ref=e356]
+              - paragraph [ref=e357]: This is World Heritage – Orizontas with Rethink Everything for Murujuga Aboriginal Corporation
+          - link "Non-Traditional Campaign of the Year “I Can Do It” – Co-Design to Take Control of Ice Use in Jail – House of Kitch for Justice Health NSW & NSW Health Centre for Alcohol and Other Drugs" [ref=e358] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-8063.jpg
+            - generic [ref=e359]:
+              - heading "Non-Traditional Campaign of the Year" [level=4] [ref=e360]
+              - paragraph [ref=e361]: “I Can Do It” – Co-Design to Take Control of Ice Use in Jail – House of Kitch for Justice Health NSW & NSW Health Centre for Alcohol and Other Drugs
+          - link "Emerging PR & Communications Talent of the Year Peggy Wheatley – Edelman Australia" [ref=e362] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-8071.jpg
+            - generic [ref=e363]:
+              - heading "Emerging PR & Communications Talent of the Year" [level=4] [ref=e364]
+              - paragraph [ref=e365]: Peggy Wheatley – Edelman Australia
+          - link "PR Professional of the Year Celia Harding - LEOPRD" [ref=e366] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-8093.jpg
+            - generic [ref=e367]:
+              - heading "PR Professional of the Year" [level=4] [ref=e368]
+              - paragraph [ref=e369]: Celia Harding - LEOPRD
+          - link "PR Leader of the Year Vanessa Liell – Orizontas & Rethink Everything" [ref=e370] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-8099.jpg
+            - generic [ref=e371]:
+              - heading "PR Leader of the Year" [level=4] [ref=e372]
+              - paragraph [ref=e373]: Vanessa Liell – Orizontas & Rethink Everything
+          - link "Best PR Employer History Will Be Kind" [ref=e374] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-8112.jpg
+            - generic [ref=e375]:
+              - heading "Best PR Employer" [level=4] [ref=e376]
+              - paragraph [ref=e377]: History Will Be Kind
+          - link "Best In-House PR Team Warner Bros. Discovery" [ref=e378] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-8119.jpg
+            - generic [ref=e379]:
+              - heading "Best In-House PR Team" [level=4] [ref=e380]
+              - paragraph [ref=e381]: Warner Bros. Discovery
+          - link "Strategic Communications Team of the Year TasWater" [ref=e382] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-8128.jpg
+            - generic [ref=e383]:
+              - heading "Strategic Communications Team of the Year" [level=4] [ref=e384]
+              - paragraph [ref=e385]: TasWater
+          - link "PR Agency of the Year - Boutique/Small Agent99 PR" [ref=e386] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-8137.jpg
+            - generic [ref=e387]:
+              - heading "PR Agency of the Year - Boutique/Small" [level=4] [ref=e388]
+              - paragraph [ref=e389]: Agent99 PR
+          - link "PR Agency of the Year - Midsize We Are Different" [ref=e390] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-8151.jpg
+            - generic [ref=e391]:
+              - heading "PR Agency of the Year - Midsize" [level=4] [ref=e392]
+              - paragraph [ref=e393]: We Are Different
+          - link "PR Agency of the Year – Large Herd MSL" [ref=e394] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/wp-content/uploads/2026/03/Mumbrella-CommsCon-2026-8168.jpg
+            - generic [ref=e395]:
+              - heading "PR Agency of the Year – Large" [level=4] [ref=e396]
+              - paragraph [ref=e397]: Herd MSL
+          - link [ref=e398] [cursor=pointer]:
+            - /url: ""
+            - generic [ref=e399]:
+              - heading [level=4]
+              - paragraph
+          - link [ref=e400] [cursor=pointer]:
+            - /url: ""
+            - generic [ref=e401]:
+              - heading [level=4]
+              - paragraph
+      - generic [ref=e407]:
+        - heading "MEET THE 2026 JURY" [level=2] [ref=e410]
+        - generic [ref=e411]:
+          - generic [ref=e413]:
+            - img "CC_Awards_JurorTemplate_300x300_Laura_Beament" [ref=e418]
+            - generic [ref=e421]:
+              - paragraph [ref=e422]:
+                - strong [ref=e423]: Laura Beament
+              - paragraph [ref=e424]: Head of Global Comms, PR & CSR,
+              - paragraph [ref=e425]:
+                - strong [ref=e426]: Jurlique
+          - generic [ref=e428]:
+            - img "CC_Awards_JurorTemplate_300x300_Kristy_Brown" [ref=e433]
+            - generic [ref=e436]:
+              - paragraph [ref=e437]:
+                - strong [ref=e438]: Kristy Brown
+              - paragraph [ref=e439]: Head of Communications ANZ,
+              - paragraph [ref=e440]:
+                - strong [ref=e441]: Belgravia Leisure
+          - generic [ref=e443]:
+            - img "CC_Awards_JurorTemplate_300x300_Stuart_Terry" [ref=e448]
+            - generic [ref=e451]:
+              - paragraph [ref=e452]:
+                - strong [ref=e453]: Stuart Terry
+              - paragraph [ref=e454]: Founder,
+              - paragraph [ref=e455]:
+                - strong [ref=e456]: We Are Different
+          - generic [ref=e458]:
+            - img "CC_Awards_JurorTemplate_300x300_Kirsty_Dunn" [ref=e463]
+            - generic [ref=e466]:
+              - paragraph [ref=e467]:
+                - strong [ref=e468]: Kirsty Dunn
+              - paragraph [ref=e469]: Director of Communications,
+              - paragraph [ref=e470]:
+                - strong [ref=e471]: Tinder Australia
+      - generic [ref=e478]:
+        - generic [ref=e480]:
+          - img "CC_Awards_JurorTemplate_300x300_Rob_Lowe" [ref=e485]
+          - generic [ref=e488]:
+            - paragraph [ref=e489]:
+              - strong [ref=e490]: Rob Lowe
+            - paragraph [ref=e491]: Director & Co-Founder,
+            - paragraph [ref=e492]:
+              - strong [ref=e493]: Poem Group
+        - generic [ref=e495]:
+          - img "CC_Awards_JurorTemplate_300x300_Justine_Sywak" [ref=e500]
+          - generic [ref=e503]:
+            - paragraph [ref=e504]:
+              - strong [ref=e505]: Justine Sywak
+            - paragraph [ref=e506]: Director of Public Relations,
+            - paragraph [ref=e507]:
+              - strong [ref=e508]: Shannon Behaviour ChangePR
+        - generic [ref=e510]:
+          - img "CC_Awards_JurorTemplate_300x300_Joanna_Stevens" [ref=e515]
+          - generic [ref=e518]:
+            - paragraph [ref=e519]:
+              - strong [ref=e520]: Joanna Stevens
+            - paragraph [ref=e521]: Regional Director Communications,
+            - paragraph [ref=e522]:
+              - strong [ref=e523]: Meta
+        - generic [ref=e525]:
+          - img "CC_Awards_JurorTemplate_300x300_Claire_Kimball" [ref=e530]
+          - generic [ref=e533]:
+            - paragraph [ref=e534]:
+              - strong [ref=e535]: Claire Kimball
+            - paragraph [ref=e536]: Founder,
+            - paragraph [ref=e537]:
+              - strong [ref=e538]: Squiz Media
+      - generic [ref=e545]:
+        - generic [ref=e547]:
+          - img "CC_Awards_JurorTemplate_300x300_Angela_Scrymgour" [ref=e552]
+          - generic [ref=e555]:
+            - paragraph [ref=e556]:
+              - strong [ref=e557]: Angela Scrymgour
+            - paragraph [ref=e558]: Head of Publicity & Events,
+            - paragraph [ref=e559]:
+              - strong [ref=e560]: ABC
+        - generic [ref=e562]:
+          - img "CC_Awards_JurorTemplate_300x300_Andrew_Giles" [ref=e567]
+          - generic [ref=e570]:
+            - paragraph [ref=e571]:
+              - strong [ref=e572]: Andrew Giles
+            - paragraph [ref=e573]: Head of Brand & PR ANZ,
+            - paragraph [ref=e574]:
+              - strong [ref=e575]: Ingram Micro
+        - generic [ref=e577]:
+          - img "CC_Awards_JurorTemplate_300x300_Amy_Ashworth" [ref=e582]
+          - generic [ref=e585]:
+            - paragraph [ref=e586]:
+              - strong [ref=e587]: Amy Ashworth
+            - paragraph [ref=e588]: Managing Director,
+            - paragraph [ref=e589]:
+              - strong [ref=e590]: Eleven PR
+        - generic [ref=e592]:
+          - img "CC_Awards_JurorTemplate_300x300_Vinne_Schifferstein_Vidal" [ref=e597]
+          - generic [ref=e600]:
+            - paragraph [ref=e601]:
+              - strong [ref=e602]: Vinne Schifferstein Vidal
+            - paragraph [ref=e603]: Managing Director,
+            - paragraph [ref=e604]:
+              - strong [ref=e605]: Made This - Clemenger Group
+      - generic [ref=e608]:
+        - generic [ref=e612]:
+          - generic [ref=e614]:
+            - img "CC_Awards_JurorTemplate_300x300_Simone_Gupta" [ref=e619]
+            - generic [ref=e622]:
+              - paragraph [ref=e623]:
+                - strong [ref=e624]: Simone Gupta
+              - paragraph [ref=e625]: Founder,
+              - paragraph [ref=e626]:
+                - strong [ref=e627]: Supermassive
+          - generic [ref=e629]:
+            - img "CC_Awards_JurorTemplate_300x300_Luke_McClelland" [ref=e634]
+            - generic [ref=e637]:
+              - paragraph [ref=e638]:
+                - strong [ref=e639]: Luke McClelland
+              - paragraph [ref=e640]: Head of Communications, Australasia,
+              - paragraph [ref=e641]:
+                - strong [ref=e642]: Mastercard
+          - generic [ref=e644]:
+            - img "CC_Awards_JurorTemplate_300x300_Adam_Freedman" [ref=e649]
+            - generic [ref=e652]:
+              - paragraph [ref=e653]:
+                - strong [ref=e654]: Adam Freedman
+              - paragraph [ref=e655]: Head of Brand, Communications & Loyalty,
+              - paragraph [ref=e656]:
+                - strong [ref=e657]: The digiDirect Group
+          - generic [ref=e659]:
+            - img "CC_Awards_JurorTemplate_300x300_Patricia_Routledge" [ref=e664]
+            - generic [ref=e667]:
+              - paragraph [ref=e668]: Patricia Routledge
+              - paragraph [ref=e669]: Country Communication Manager,
+              - paragraph [ref=e670]:
+                - strong [ref=e671]: IKEA Australia & New Zealand
+        - generic [ref=e679] [cursor=pointer]:
+          - link "VIEW THE FULL LIST OF JURORS" [ref=e680]:
+            - /url: "#"
+          - link " Expand" [ref=e681]:
+            - /url: "#"
+            - generic "Expand" [ref=e682]:
+              - text: 
+              - generic [ref=e683]: Expand
+      - generic [ref=e692]:
+        - generic [ref=e694]:
+          - heading "Meet Your MC" [level=3] [ref=e695]
+          - paragraph
+          - paragraph [ref=e696]: "Fashion Critical is an anonymous Australian fashion commentator, digital creator and the author of Fashion Critical: Red Carpet Lewks and LOLs from an Undercover Fashion Critic (2025)."
+          - paragraph [ref=e697]: Known for her razor-sharp critiques of celebrity red-carpet fashion, she has built a fiercely devoted following including designers, stylists, celebrities themselves and of course, everyday Aussies, all of whom who pour over her verdicts long after the trophies have been handed out.
+          - paragraph [ref=e698]: Her signature catchphrases and sharp wit have turned her unapologetic post-event “albums” into essential scrolling after every major awards night, reaching tens of millions around the world.
+          - paragraph [ref=e699]: Social media aside, FC is regularly called upon by the Australian media to dissect high-profile fashion moments - from the Oscars to the Olympic Opening Ceremony, bringing her trademark wit to every interview.
+          - paragraph
+          - link "BOOK TABLES" [ref=e700] [cursor=pointer]:
+            - /url: "#tickets"
+        - generic [ref=e702]:
+          - heading "Live Entertainment" [level=3] [ref=e703]
+          - paragraph
+          - paragraph [ref=e704]: DJ Claire Elliott is a globally sought-after and trusted DJ with over 15 years of experience playing high-end clubs and major events.
+          - paragraph [ref=e705]: Known for her energy and seamless genre-blending, she’s a top choice for elite brands and large-scale productions. Claire specializes in open-format sets and has performed for stadium events, TV, radio, and collaborations with world-class entertainers. Her standout performances include opening for Katy Perry, Justin Bieber, the AFL Grand Final, and televised events like the AFL Footy Show Final and T20 cricket and a residency for Virgin in Ibiza.
+          - paragraph
+          - link "BOOK TABLES" [ref=e706] [cursor=pointer]:
+            - /url: "#tickets"
+        - generic [ref=e708]:
+          - heading "Make It A Day" [level=3] [ref=e709]
+          - paragraph
+          - paragraph [ref=e710]: Attending the gala dinner? Make it a day and join the conference. It's the perfect opportunity to make connections with other bright minds and gain valuable insights to further elevate your success.
+          - paragraph
+          - link "FIND OUT MORE" [ref=e711] [cursor=pointer]:
+            - /url: https://mumbrella.com.au/commscon
+      - generic [ref=e719]:
+        - heading "KEY DATES" [level=2] [ref=e725]
+        - generic [ref=e731]:
+          - heading "First Entry Deadline:" [level=2] [ref=e736]
+          - heading "5 December 2025" [level=2] [ref=e741]
+        - generic [ref=e745]:
+          - heading "Final Entry Deadline:" [level=2] [ref=e750]
+          - heading "12 December 2025" [level=2] [ref=e755]
+        - generic [ref=e759]:
+          - heading "Shortlist Announcement:" [level=2] [ref=e764]
+          - heading "19 February 2026" [level=2] [ref=e769]
+        - generic [ref=e773]:
+          - heading "Awards Ceremony:" [level=2] [ref=e778]
+          - heading "25 March 2026" [level=2] [ref=e786]
+      - generic [ref=e797]:
+        - heading "PARTNERS" [level=2] [ref=e800]
+        - heading "HEADLINE PARTNER" [level=2] [ref=e803]
+        - link "Edelman_Logo_Black_e018b9" [ref=e808] [cursor=pointer]:
+          - /url: http://www.edelman.com.au
+          - img "Edelman_Logo_Black_e018b9" [ref=e809]
+        - heading "PARTNERS" [level=2] [ref=e812]
+        - generic [ref=e813]:
+          - link "Streem Logo CMYK Navy" [ref=e820] [cursor=pointer]:
+            - /url: https://www.streem.com.au
+            - img "Streem Logo CMYK Navy" [ref=e821]
+          - link "2746 Salt&Shein Draft Logo" [ref=e828] [cursor=pointer]:
+            - /url: https://www.saltshein.com.au/
+            - img "2746 Salt&Shein Draft Logo" [ref=e829]
+          - link "Telum Media Master Logo (1)" [ref=e836] [cursor=pointer]:
+            - /url: http://www.telummedia.com
+            - img "Telum Media Master Logo (1)" [ref=e837]
+        - heading "AUDIO PARTNER" [level=2] [ref=e840]
+        - link "Abe's Audio HORIZONTAL - Navy (1) (1)" [ref=e848] [cursor=pointer]:
+          - /url: https://www.abesaudio.com.au/
+          - img "Abe's Audio HORIZONTAL - Navy (1) (1)" [ref=e849]
+        - heading "MEDIA PARTNER" [level=2] [ref=e852]
+        - link "Social Diary Logo" [ref=e857] [cursor=pointer]:
+          - /url: https://socialdiary.com.au/
+          - img "Social Diary Logo" [ref=e858]
+      - generic [ref=e866]:
+        - iframe [ref=e872]:
+          
+        - generic [ref=e874]:
+          - heading "EVENT DETAILS" [level=2] [ref=e877]
+          - generic [ref=e880]:
+            - paragraph [ref=e881]: 25 March 2026 | Crown Sydney
+            - paragraph [ref=e882]
+            - paragraph [ref=e883]:
+              - strong [ref=e884]: Timings
+              - text: ":"
+            - paragraph [ref=e885]: "Pre-Ceremony Drinks: 6:15pm"
+            - paragraph [ref=e886]: "Awards Ceremony: 6:45pm - 11:00pm (AEST)"
+            - paragraph [ref=e887]
+            - paragraph [ref=e888]:
+              - strong [ref=e889]: Getting There
+              - text: ":"
+            - paragraph [ref=e890]: 1 Barangaroo Ave, Barangaroo NSW 2000
+            - paragraph [ref=e892]:
+              - link "Click here" [ref=e893] [cursor=pointer]:
+                - /url: https://www.crownsydney.com.au/plan-your-visit/getting-here
+              - text: for more information on getting there.
+      - generic [ref=e902]:
+        - paragraph [ref=e903]:
+          - strong [ref=e905]: Acknowledgement of Country
+        - paragraph [ref=e906]: We acknowledge the Traditional Custodians of the lands where we work and live. We celebrate the diversity of Aboriginal peoples and their ongoing cultures and connections to the lands and waters of NSW. We pay our respects to the people, the cultures and the elders past, present and emerging.
+  - contentinfo [ref=e907]:
+    - generic [ref=e908]:
+      - generic [ref=e910]:
+        - link "Mumbrella News" [ref=e911] [cursor=pointer]:
+          - /url: /category/news/
+        - link "Subscribe to our Newsletter" [ref=e912] [cursor=pointer]:
+          - /url: /subscribe/
+        - link "Mumbrella Events" [ref=e913] [cursor=pointer]:
+          - /url: /mumbrella-events/
+        - link "Event Terms & Conditions" [ref=e914] [cursor=pointer]:
+          - /url: /event-terms-and-conditions
+      - generic [ref=e915]:
+        - heading "For Content Enquiries" [level=4] [ref=e916]
+        - paragraph [ref=e917]:
+          - link "Contact Head of Curation, Cat McGinn" [ref=e918] [cursor=pointer]:
+            - /url: mailto:cat@mumbrella.com.au
+        - heading "For Sponsorship Enquiries" [level=4] [ref=e919]
+        - paragraph [ref=e920]:
+          - link "Contact Commercial Director, Victoria Seymour." [ref=e921] [cursor=pointer]:
+            - /url: mailto:vseymour@mumbrella.com.au
+        - heading "For Event Enquiries" [level=4] [ref=e922]
+        - paragraph [ref=e923]:
+          - link "Contact Event Manager, Faye Winarta." [ref=e924] [cursor=pointer]:
+            - /url: mailto:fwinarta@mumbrella.com.au
+        - heading "For Marketing Enquiries" [level=4] [ref=e925]
+        - paragraph [ref=e926]:
+          - link "Marketing Manager, Anne Nguyen" [ref=e927] [cursor=pointer]:
+            - /url: mailto:anguyen@mumbrella.com.au
+      - generic [ref=e928]:
+        - heading "Follow us" [level=4] [ref=e929]
+        - generic [ref=e930]:
+          - link [ref=e931] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/mumbrella
+            - img [ref=e932]
+          - link [ref=e933] [cursor=pointer]:
+            - /url: https://www.instagram.com/mumbrella_aus/
+            - img [ref=e934]
+          - link [ref=e935] [cursor=pointer]:
+            - /url: https://twitter.com/Mumbrellanews
+            - img [ref=e936]
+          - link [ref=e937] [cursor=pointer]:
+            - /url: https://www.facebook.com/MumbrellaAus/
+            - img [ref=e938]
