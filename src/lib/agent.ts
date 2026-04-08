@@ -55,6 +55,7 @@ export async function* researchAward(
 
   try {
     let resultText = "";
+    let lastUsage: { input_tokens?: number; output_tokens?: number; cache_read_tokens?: number; cache_write_tokens?: number } = {};
 
     for await (const message of query({
       prompt: `Research the following award show and produce the markdown table as specified:\n\n${awardName}`,
@@ -80,6 +81,21 @@ export async function* researchAward(
       if ("result" in message) {
         resultText = message.result;
         yield makeLog(awardIndex, awardName, `Research complete`);
+      } else if (
+        message.type === "system" &&
+        message.subtype === "task_progress" &&
+        "usage" in message
+      ) {
+        // Capture cumulative usage from task_progress events
+        const u = message.usage as Record<string, number> | undefined;
+        if (u) {
+          lastUsage = {
+            input_tokens: u.input_tokens,
+            output_tokens: u.output_tokens,
+            cache_read_tokens: u.cache_read_input_tokens,
+            cache_write_tokens: u.cache_creation_input_tokens,
+          };
+        }
       } else if (message.type === "assistant") {
         for (const block of message.message.content) {
           if (block.type === "text" && block.text) {
@@ -124,6 +140,15 @@ export async function* researchAward(
       }
     }
 
+    // Build token usage summary
+    const tokenSummary = lastUsage.input_tokens
+      ? `Token usage: input=${lastUsage.input_tokens} output=${lastUsage.output_tokens ?? 0} cache_read=${lastUsage.cache_read_tokens ?? 0} cache_write=${lastUsage.cache_write_tokens ?? 0}`
+      : "";
+
+    if (tokenSummary) {
+      yield makeLog(awardIndex, awardName, `[tokens] ${tokenSummary}`);
+    }
+
     if (!resultText) {
       yield {
         type: "error",
@@ -135,6 +160,12 @@ export async function* researchAward(
     }
 
     const parsed = parseAgentResponse(awardName, resultText);
+    // Append token usage to notes
+    if (tokenSummary) {
+      parsed.notes = parsed.notes
+        ? `${parsed.notes}\n\n${tokenSummary}`
+        : tokenSummary;
+    }
     yield {
       type: "result",
       awardIndex,
