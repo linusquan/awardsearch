@@ -23,6 +23,6 @@ export interface LogEntry {
   timestamp: string;
   awardIndex: number;
   awardName: string;
-  level: "tool" | "result" | "assistant" | "system" | "error" | "tokens";
+  level: "tool" | "result" | "assistant" | "system" | "error";
   message: string;
 }
