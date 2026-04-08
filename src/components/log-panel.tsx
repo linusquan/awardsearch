@@ -73,6 +73,8 @@ function levelColor(level: LogEntry["level"]): string {
       return "text-cyan-400";
     case "system":
       return "text-purple-400";
+    case "tokens":
+      return "text-orange-400 font-bold";
     case "error":
       return "text-red-400";
   }

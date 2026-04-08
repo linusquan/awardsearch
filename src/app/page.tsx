@@ -17,6 +17,7 @@ function classifyLog(message: string): LogEntry["level"] {
   if (message.startsWith("[tool_call]")) return "tool";
   if (message.startsWith("[tool_result]")) return "result";
   if (message.startsWith("[assistant]")) return "assistant";
+  if (message.startsWith("[tokens]")) return "tokens";
   if (message.startsWith("[system]")) return "system";
   return "system";
 }

@@ -46,7 +46,7 @@ For each award, work through these steps in order. Stop as soon as you have all 
 ## Important Rules
 
 - **Accuracy over completeness** — only record dates and costs you can verify from an authoritative source. Never guess or infer dates.
-- **Year handling** — if the current year's dates are not yet published, use the previous year's date with a ⚠️ flag (e.g., "15 Mar 2025 ⚠️") so the user knows it may change.
+- **Year handling** — always find the most recent edition's dates, even if they are in the past. If the current year's dates are not yet published, use the most recent year's dates and flag with ⚠️ (e.g., "15 Mar 2025 ⚠️"). Never skip an award just because its deadline has passed.
 - **Login-gated pricing** — if a site requires login or registration to see pricing, note "Contact for pricing" rather than trying to access gated content.
 - **Work sequentially** — process each award one at a time to maintain accuracy. Output the completed table only when all awards are done.
 - **Currency** — default assumption is AUD. If the award lists pricing in another currency (USD, GBP, EUR, etc.), note it in parentheses, e.g., "$500 (USD)".
