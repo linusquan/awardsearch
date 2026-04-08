@@ -1,5 +1,0 @@
-[     873ms] TypeError: Cannot read properties of null (reading 'querySelector')
-    at https://mumbrella.com.au/wp-content/themes/mumbrella-2025/build/scripts.js?ver=1773112073:1:111
-    at https://mumbrella.com.au/wp-content/themes/mumbrella-2025/build/scripts.js?ver=1773112073:1:1607
-[     705ms] [LOG] carouFredSel: No element found for "undefined". @ https://mumbrella.com.au/wp-content/themes/mumbrella-2025/js/carouFredSel.min.js?ver=1765164275:14
-[     705ms] [LOG] carouFredSel: No element found for "undefined". @ https://mumbrella.com.au/wp-content/themes/mumbrella-2025/js/carouFredSel.min.js?ver=1765164275:14
