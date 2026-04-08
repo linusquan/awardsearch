@@ -170,6 +170,53 @@ export default function Home() {
     }
   }, [results]);
 
+  const handleExportCsv = useCallback(() => {
+    const completedResults = results.filter((r) => r.status === "done");
+    if (completedResults.length === 0) return;
+
+    const headers = [
+      "Award Show",
+      "Submission Earlybird Entry",
+      "Submission DEADLINE",
+      "General category (PR/Social/Influencer)",
+      "per category entry cost (ex. GST)",
+      "Website",
+      "Awards Ceremony details",
+      "Notes",
+    ];
+
+    const escape = (val: string) => {
+      if (val.includes(",") || val.includes('"') || val.includes("\n")) {
+        return `"${val.replace(/"/g, '""')}"`;
+      }
+      return val;
+    };
+
+    const rows = completedResults.map((r) =>
+      [
+        r.awardShow,
+        r.earlyBirdDeadline,
+        r.submissionDeadline,
+        r.category,
+        r.entryCost,
+        r.website,
+        r.ceremonyDetails,
+        r.notes,
+      ]
+        .map(escape)
+        .join(",")
+    );
+
+    const csv = [headers.map(escape).join(","), ...rows].join("\n");
+    const blob = new Blob([csv], { type: "text/csv;charset=utf-8;" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "award-research.csv";
+    a.click();
+    URL.revokeObjectURL(url);
+  }, [results]);
+
   return (
     <main className="flex-1 px-4 py-12 sm:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto">
@@ -195,7 +242,7 @@ export default function Home() {
           </div>
         )}
 
-        <ResultsTable results={results} onExport={handleExport} />
+        <ResultsTable results={results} onExport={handleExport} onExportCsv={handleExportCsv} />
 
         {(logs.length > 0 || isLoading) && (
           <LogPanel

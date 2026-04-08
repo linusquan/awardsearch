@@ -70,6 +70,7 @@ export async function* researchAward(
           "mcp__playwright__*",
         ],
         mcpServers,
+        model: "claude-sonnet-4-6",
         permissionMode: "bypassPermissions",
         allowDangerouslySkipPermissions: true,
         maxTurns: 25,

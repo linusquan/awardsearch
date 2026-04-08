@@ -6,9 +6,10 @@ import type { AwardResult } from "@/lib/types";
 interface ResultsTableProps {
   results: AwardResult[];
   onExport: () => void;
+  onExportCsv: () => void;
 }
 
-export function ResultsTable({ results, onExport }: ResultsTableProps) {
+export function ResultsTable({ results, onExport, onExportCsv }: ResultsTableProps) {
   const [expandedNotes, setExpandedNotes] = useState<Set<number>>(new Set());
 
   if (results.length === 0) return null;
@@ -31,12 +32,20 @@ export function ResultsTable({ results, onExport }: ResultsTableProps) {
           Results ({completedResults.length} of {results.length})
         </h2>
         {completedResults.length > 0 && (
-          <button
-            onClick={onExport}
-            className="rounded-lg bg-green-600 px-4 py-2 text-sm font-medium text-white hover:bg-green-700 transition-colors cursor-pointer"
-          >
-            Download XLSX
-          </button>
+          <div className="flex gap-2">
+            <button
+              onClick={onExportCsv}
+              className="rounded-lg bg-gray-600 px-4 py-2 text-sm font-medium text-white hover:bg-gray-700 transition-colors cursor-pointer"
+            >
+              Download CSV
+            </button>
+            <button
+              onClick={onExport}
+              className="rounded-lg bg-green-600 px-4 py-2 text-sm font-medium text-white hover:bg-green-700 transition-colors cursor-pointer"
+            >
+              Download XLSX
+            </button>
+          </div>
         )}
       </div>
 
